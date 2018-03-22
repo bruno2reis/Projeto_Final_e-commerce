@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+header{
+	height: 150px;
+}
+section .container{
+	position: relative;
+	
+}
+
+
+
+header#cabecalho img#iconeLogo {
+	position: relative;	
+	margin-top: 20px;
+}
+
+#divBusca{
+  background-color:#FFF;
+  border:solid 2px #5F9EA0;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+  float: right;
+  margin-top: 53px;
+}
+ 
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px; 
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:191px;
+}
+ 
+#btnBusca{
+  border:none;
+  float:right;
+  height:30px;
+  border-radius:0 7px 7px 0;
+  width:70px;
+  font-weight:bold;
+  background:#5F9EA0;
+}
+ 
+#divBusca img{
+  float:left;
+}
+#menu{
+	padding:0px;
+    margin-top: 20px;
+    background-color:#EDEDED;
+    list-style:none;
+	
+	
+}
+#menu ul {
+    /*padding:0px;
+    margin:0px;
+    background-color:#EDEDED;
+    list-style:none;*/
+	
+	
+}
+
+#menu ul li { 
+	display: inline; 
+	
+}
+
+#menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+	/* visual do link */
+    background-color:#EDEDED;
+    color: #333;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+
+#menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
+}
+
+
+
+
+
+
+img#carrossel{
+	position: relative;
+}
+
+.123 {
+	padding:20px;
+	margin-right: 100px;
+	position:absolute;
+
+}
+
+.fig {
+	
+	position: relative;
+}
