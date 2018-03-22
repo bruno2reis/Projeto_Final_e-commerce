@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-		<link rel="stylesheet" href="cardslider.css">
+		<link rel="stylesheet" href="css/cardslider.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 		<title>Index - Produtos</title>
@@ -47,7 +47,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -65,7 +65,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -84,7 +84,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -102,7 +102,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -124,7 +124,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -141,25 +141,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
-								</div>
-								<div class="card-block p-t-2">									
-									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
-									<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
-									<div class="card-text">R$ 15,00</div>								
-									<br>
-									<a href="#" class="btn btn-primary">Adicionar ao carrinho</a>    	
-								</div>
-							</div>
-						</div>
-					</div>
-					
-					
-					<div class="col-md-3">
-						<div class="card">
-							<div class="text-center">
-								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -177,7 +159,25 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
+								</div>
+								<div class="card-block p-t-2">									
+									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
+									<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
+									<div class="card-text">R$ 15,00</div>								
+									<br>
+									<a href="#" class="btn btn-primary">Adicionar ao carrinho</a>    	
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					<div class="col-md-3">
+						<div class="card">
+							<div class="text-center">
+								<div class="card-img-top card-img-top-150">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -234,7 +234,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -252,7 +252,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -271,7 +271,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -289,7 +289,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -311,7 +311,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -328,25 +328,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
-								</div>
-								<div class="card-block p-t-2">									
-									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
-									<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
-									<div class="card-text">R$ 15,00</div>								
-									<br>
-									<a href="#" class="btn btn-primary">Adicionar ao carrinho</a>    	
-								</div>
-							</div>
-						</div>
-					</div>
-					
-					
-					<div class="col-md-3">
-						<div class="card">
-							<div class="text-center">
-								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -364,7 +346,25 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
+								</div>
+								<div class="card-block p-t-2">									
+									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
+									<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
+									<div class="card-text">R$ 15,00</div>								
+									<br>
+									<a href="#" class="btn btn-primary">Adicionar ao carrinho</a>    	
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					<div class="col-md-3">
+						<div class="card">
+							<div class="text-center">
+								<div class="card-img-top card-img-top-150">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -420,7 +420,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -438,7 +438,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -457,7 +457,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -475,7 +475,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -497,7 +497,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -514,25 +514,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
-								</div>
-								<div class="card-block p-t-2">									
-									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
-									<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
-									<div class="card-text">R$ 15,00</div>								
-									<br>
-									<a href="#" class="btn btn-primary">Adicionar ao carrinho</a>    	
-								</div>
-							</div>
-						</div>
-					</div>
-					
-					
-					<div class="col-md-3">
-						<div class="card">
-							<div class="text-center">
-								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -550,7 +532,25 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
+								</div>
+								<div class="card-block p-t-2">									
+									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
+									<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
+									<div class="card-text">R$ 15,00</div>								
+									<br>
+									<a href="#" class="btn btn-primary">Adicionar ao carrinho</a>    	
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					<div class="col-md-3">
+						<div class="card">
+							<div class="text-center">
+								<div class="card-img-top card-img-top-150">
+									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
