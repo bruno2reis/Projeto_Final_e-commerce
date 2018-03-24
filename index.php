@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap-theme.css">
     <link rel="stylesheet" href="css/style_drogaria.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/cadastro.css">
     <scripct language="JavaScript" src="js/total.js"></scripct>
     <!-- Carregamento de arquivos JavaScript -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
@@ -46,17 +47,10 @@
     <br/>
             <?php require_once "corpo_total.php"; ?>
 
-            <div class="modal-footer">
-                <?php require_once ""; ?>
-            </div>
         </div>
 
-<<<<<<< HEAD
-=======
-    </div>
-    <div class="modal-footer">
-        <?php require_once "footer.php"; ?>
->>>>>>> 97f393068aa34b9f9b265c83ed0a6fc0f0d83519
+<br/>
+    <?php require_once "footer.php"; ?>
 
 </body>
 </html>

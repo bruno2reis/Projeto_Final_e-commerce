@@ -11,10 +11,6 @@
         margin: 20px;
     }
 </style>
-
-<<<<<<< HEAD
-
-
 <section class="carousel slide" data-ride="carousel" id="pCarousel">
     <div class="container p-t-0 m-t-2 carousel-inner">
         <div class="row row-equal carousel-item active m-t-0">
@@ -67,7 +63,7 @@
     </div>
 </section>
 <!-- Promoções da semana -->
-=======
+
 		<title>Index - Produtos</title>
 		
 		
@@ -190,100 +186,9 @@
 			   
 				
 		</style>
-		
-	</head>
-	
 	<body>
 
-	
-	<!-- Cadastro -->
-	
-	<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Cadastro</button>
-
-	<div id="id01" class="modal">
-	  <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>		<!-- Botão de x para fechar o modal -->
-	  <form class="modal-content" action="/action_page.php">
-		<div class="container">
-		  <div class="text-center">
-			<h1>Cadastre-se</h1>
-		  </div>
-		  
-		  <hr>
-		  <label for="email"><b>e-mail</b></label>
-		  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" required>
-
-		  <label for="psw"><b>senha</b></label>
-		  <input type="password" placeholder="" name="psw" required>
-
-		  <label for="cpf"><b>CPF</b></label>
-		  <input type="number" placeholder="Ex. 123.456.789-12" name="cpf" required>	  
-
-		  <label for="nome"><b>seu nome</b></label>
-		  <input type="text" placeholder="Ex. Leonardo" name="nome" required>
-
-		  <label for="dtnasc"><b>data de nascimento</b></label><br>
-		  <input type="date" placeholder="Ex. 01/01/1999" name="dtnasc" required><br><br>
-
-		  <label for="email"><b>sexo</b></label><br>
-		  <input type="radio" name="sexo" value="masc" checked>Masculino
-		  <input type="radio" name="sexo" value="fem">Feminino<br><br>		  
-		  
-		  <label for="tel"><b>telefone</b></label>
-		  <input type="number" placeholder="Ex. (99) 99999-9999" name="tel" required>	  
-
-
-		  <div class="clearfix">
-				<div class="text-center">
-					<button type="submit" class="btn btn-default" style="width: 50%">CRIAR CADASTRO</button><br>          <!-- Botão de x para fechar o modal -->
-					<a href="">Sou cadastrado. Fazer login.</a>
-				</div>
-		  </div>
-		</div>
-	  </form>
-	</div>
-
-	
-	
-	<!-- Login -->
-	
-	<button onclick="document.getElementById('id02').style.display='block'" style="width:auto;">Login</button>
-
-	<div id="id02" class="modal">
-	  <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">&times;</span>
-	  <form class="modal-content" action="/action_page.php">
-		<div class="container">
-		  <div class="text-center">
-			<h1>Fazer login</h1>
-		  </div>
-		  
-		  <hr>
-		  <label for="email"><b>e-mail</b></label>
-		  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" required>
-
-		  <label for="psw"><b>senha</b></label>
-		  <input type="password" placeholder="" name="psw" required>
-
-
-		  <div class="clearfix">
-				<div class="text-center">
-					<button type="submit" class="btn btn-default" style="width: 50%">Entrar</button><br>
-					<a href="">Não sou cadastrado. Fazer cadastro.</a>
-					<p onclick="document.getElementById('id01')">Login</p>
-				</div>
-		  </div>
-		</div>
-	  </form>
-	</div>
-	
-	
-	
-	
-	
-	
-	
 	<!-- Promoções da semana -->
->>>>>>> 97f393068aa34b9f9b265c83ed0a6fc0f0d83519
-	
 		<section class="container p-t-3">
 			<div class="row">
 				<div class="col-lg-12">
@@ -291,7 +196,6 @@
 				</div>
 			</div>
 		</section>
-		
 		<section class="carousel slide" data-ride="carousel" id="promoCarousel">
 			<div class="container p-t-0 m-t-2 carousel-inner">
 				<div class="row row-equal carousel-item active m-t-0">
@@ -445,7 +349,6 @@
                     <span class="sr-only">Next</span>
                 </a>
 			</div>
-			
 		</section>
 		<!-- Mais vendidos -->
 		<br>     <!-- Provisório - mudar no CSS -->
@@ -457,7 +360,6 @@
 				</div>
 			</div>
 		</section>
-		
 		<section class="carousel slide" data-ride="carousel" id="maisvendCarousel">
 			<div class="container p-t-0 m-t-2 carousel-inner">
 				<div class="row row-equal carousel-item active m-t-0">
@@ -612,10 +514,8 @@
                 </a>
 			</div>
 			
-		</section>	
-
+		</section>
 		<!-- Novidades -->
-	
 		<br>     <!-- Provisório - mudar no CSS -->
 		<br>     <!-- Provisório - mudar no CSS -->
 		<section class="container p-t-3">
@@ -625,7 +525,6 @@
 				</div>
 			</div>
 		</section>
-		
 		<section class="carousel slide" data-ride="carousel" id="novidadesCarousel">
 
 			<div class="container p-t-0 m-t-2 carousel-inner">
@@ -796,34 +695,7 @@
 		</section>
 
 
-<<<<<<< HEAD
-
-
-=======
-	<script>
-			   
-			$('.carousel').carousel({			/* Para fazer com que os carrosséis não se movimentem automaticamente */
-				pause: true,
-				interval: false
-			});
-
-			
-			/* Scripts para o cadastro */
-			
-			// Get the modal
-				var modal = document.getElementById('id01');
-				var modal2 = document.getElementById('id02');
-
-			// When the user clicks anywhere outside of the modal, close it
-			window.onclick = function(event) {
-				if (event.target == modal || event.target == modal2) {
-					modal.style.display = "none";
-				}
-			}
-			
-		</script>
-
 
 	</body>
-</html>
->>>>>>> 97f393068aa34b9f9b265c83ed0a6fc0f0d83519
+
+
