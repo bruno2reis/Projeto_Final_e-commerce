@@ -1,20 +1,22 @@
+<div class="container">
+    <div class="form-group row">
+        <div class="col-xs-2">
+            <img id="iconeLogo" src="img/LOGO-100x65.png"/>
+        </div>
+        <div class="col-xs-8">
 
-    <div class="container">
-        <img id="iconeLogo" src="img/logo.jpg"/>
-        <div id="divBusca">
-          <input type="text" id="txtBusca" placeholder="Buscar..."/>
-          <button id="btnBusca">Buscar</button>
+            <input class="form-control" id="divBusca" type="text">
+        </div>
+        <div class="col-xs-1">
+            <input class="btn btn-primary" id="divBusca" type="button" value="Buscar">
+
+            <!--<button id="divBusca">Buscar</button>-->
+        </div>
+        <div class="">
+            <span class="glyphicon glyphicon-shopping-cart" id="divBusca"></span>
+
         </div>
     </div>
+</div>
 
-    <div class="container-fluid">
-        <nav id="menu">
-            <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Produtos</a></li>
-                <li><a href="#">Missão</a></li>
-                <li><a href="#">Links</a></li>
-                <li><a href="#">Contato</a></li>
-            </ul>
-        </nav>
-    </div>
+

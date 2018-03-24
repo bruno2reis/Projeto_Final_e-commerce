@@ -42,7 +42,7 @@ body{margin-top: 50px; margin-bottom: 100px;}
 
 .card:hover  {
    border-color: #bee7ff;
-   border size: 20px;
+  /* border size: 20px;*/
 }
 
 .text-center{
