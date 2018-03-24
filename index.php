@@ -51,6 +51,12 @@
             </div>
         </div>
 
+<<<<<<< HEAD
+=======
+    </div>
+    <div class="modal-footer">
+        <?php require_once "footer.php"; ?>
+>>>>>>> 97f393068aa34b9f9b265c83ed0a6fc0f0d83519
 
 </body>
 </html>

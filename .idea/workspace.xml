@@ -2,13 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b199521-c1f9-437e-9c8b-c9b68aeb375c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Carrocel/compre3_pague2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Carrocel/promo_cinquenta_off.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Carrocel/promo_seis.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Carrocel/promo_trinta_off.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Carrocel/promocao_semana.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/banco_do_brasil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/boleto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_amex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_bradesco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_diners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_elo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_hiper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_hipercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_itau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_master.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cheque.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Logo/LOGO-100x65.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Logo/LOGO-300x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Logo/LOGO-62x62.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Advil_400.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/BalsamoBengue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Cimegripe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Dorflex_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/EnoSaldeFruta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/KitAdoçante.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Ninho_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Ninho_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Ninho_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Perfenol_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Rexoditos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Salicetil_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Suco_verde_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/Produtos/Suco_verde_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/sociais/Facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/sociais/Instagram.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imagens/sociais/Twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/banco_do_brasil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/boleto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_amex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_bradesco.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_diners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_elo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_hiper.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_hipercard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_itau.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_master.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cartao_visa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/cheque.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pagamento/money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carrinho.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corpo_carrinho.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corpo_total.php" afterPath="$PROJECT_DIR$/corpo_total.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/cardslider.css" afterPath="$PROJECT_DIR$/css/cardslider.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style_drogaria.css" afterPath="$PROJECT_DIR$/css/style_drogaria.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/total.js" afterPath="$PROJECT_DIR$/js/total.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nav.php" afterPath="$PROJECT_DIR$/nav.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="corpo_total.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="corpo_total.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/corpo_total.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+            <state relative-caret-position="160">
+              <caret line="62" column="50" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -60,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-103">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="420">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -118,11 +168,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/total.js" />
-        <option value="$PROJECT_DIR$/corpo_total.php" />
         <option value="$PROJECT_DIR$/css/cardslider.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/style_drogaria.css" />
         <option value="$PROJECT_DIR$/nav.php" />
+        <option value="$PROJECT_DIR$/corpo_total.php" />
       </list>
     </option>
   </component>
@@ -317,7 +367,7 @@
       <workItem from="1521592557901" duration="5643000" />
       <workItem from="1521686412429" duration="754000" />
       <workItem from="1521847966724" duration="4975000" />
-      <workItem from="1521899171958" duration="3808000" />
+      <workItem from="1521899171958" duration="4215000" />
     </task>
     <task id="LOCAL-00001" summary="'inicio do time'">
       <created>1521671802301</created>
@@ -330,7 +380,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34640000" />
+    <option name="totallyTimeSpent" value="35047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -753,19 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-103">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nav.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
@@ -776,9 +813,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/corpo_total.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="61" column="50" lean-forward="false" selection-start-line="61" selection-start-column="50" selection-end-line="61" selection-end-column="50" />
+        <state relative-caret-position="160">
+          <caret line="62" column="50" lean-forward="false" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
