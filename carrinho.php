@@ -21,7 +21,7 @@
 </div>
     <div class="container">
 
-                <?php require_once "corpo_total.php"; ?>
+                <?php require_once "corpo_carrinho.php"; ?>
 
 
     </div>
@@ -32,8 +32,3 @@
 </div>
 </body>
 </html>
-
-
-
-
-<?php
