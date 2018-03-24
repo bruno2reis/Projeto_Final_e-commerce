@@ -26,7 +26,7 @@
 
     </div>
     <div class="modal-footer">
-        <?php require_once ""; ?>
+        <?php require_once "footer.php"; ?>
 
     </div>
 </div>
