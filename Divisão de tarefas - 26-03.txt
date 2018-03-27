@@ -1,0 +1,11 @@
+Terminar de ajeitar o front (pendente)
+
+Definir as tabelas a serem criadas (hoje - 26-03)
+
+Criar as tabelas (mysql) - Wander
+
+Integração do site com o banco de dados - ?
+
+Cadastro/Login - 2 brunos
+
+Adicionar/remover itens do carrinho - 2 brunos
