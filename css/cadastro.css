@@ -20,6 +20,14 @@ label {
 	margin-bottom: 0;
 }
 
+#nav_princ{
+	background-color: rgb(38,95,167);
+	border-radius: 10px;
+	height: 50px;
+}
+#bord_nav{
+	border-color:#dddddd;
+}
 
 
 /* Adicionar cor de fundo quando o input está em foco */
@@ -31,10 +39,8 @@ input[type=text]:focus, input[type=password]:focus, input[type=number]:focus, in
 
 /* Estilo para os botões */
 button {
-	background-color: #4CAF50;
-	color: white;
-	padding: 14px 20px;
-	margin: 8px 0;
+	background-color: white;
+	color: #007bff;
 	border: none;
 	cursor: pointer;
 	width: 100%;
