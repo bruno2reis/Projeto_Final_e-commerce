@@ -35,7 +35,7 @@
     <div id="id01" class="modal">
         <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
         <!-- Botão de x para fechar o modal -->
-	  <form class="modal-content" action="/action_page.php">
+	  <form class="modal-content" action="" id="myForm">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
@@ -57,56 +57,58 @@
                     <!-- Cadastro -->
 					
                     <div class="tab-content">
-                        <div role="tabpanel" class="tab-pane active" id="cadastro">
+                        <div role="tabpanel" class="tab-pane active" id="formulario">
                           <label for="email">e-mail</label>
-                          <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" required>
+                          <input type="text" id="email" placeholder="Ex. joaodasilva@gmail.com" name="email">
 
                           <label for="psw">senha</label>
-                          <input type="password" placeholder="" name="psw" required>
-
+                          <input type="password" id="senha" placeholder="" name="psw">
+                        <!--
                           <label for="cpf">CPF</label>
-                          <input type="number" placeholder="Ex. 123.456.789-12" name="cpf" required>
+                          <input type="number" id="cpf" placeholder="Ex. 123.456.789-12" name="cpf">
 
                           <label for="nome">seu nome</label>
-                          <input type="text" placeholder="Ex. Leonardo" name="nome" required>
+                          <input type="text" id="nome" placeholder="Ex. Leonardo" name="nome">
 
                           <label for="dtnasc">data de nascimento</label><br>
-                          <input type="date" placeholder="Ex. 01/01/1999" name="dtnasc" required><br>
+                          <input type="date" id="dtnasc" placeholder="Ex. 01/01/1999" name="dtnasc"><br>
 
                           <label for="email">sexo</label><br>
                           <input type="radio" name="sexo" value="masc" checked>Masculino
                           <input type="radio" name="sexo" value="fem">Feminino<br><br>
 
                           <label for="tel">telefone</label>
-                          <input type="number" placeholder="Ex. (99) 99999-9999" name="tel" required>
-
+                          <input type="number" id="tel" placeholder="Ex. (99) 99999-9999" name="tel">
+-->
 
                           <div class="clearfix">
                             <div class="text-center">
-                                <button type="submit" class="btn btn-default" style="background-color:rgb(38,95,167); width: 50%;color: white;">CRIAR CADASTRO</button><br>
+                                <input type="button" id="salvar" class="btn btn-default" value="CRIAR CADASTRO" style="background-color:rgb(38,95,167); width: 50%;color: white;"><br>
                             </div>
                           </div>
+                          <div id="mensagem_erro"></div>
+                          <div id="insere_aqui"></div>
                         </div>
 
                     <!-- Login -->
-					
+					<!--
                      <div role="tabpanel" class="tab-pane" id="login">
-
                       <label for="email">e-mail</label>
-                      <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" required>
+                      <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" id="email2">
 
                       <label for="psw">senha</label>
-                      <input type="password" placeholder="" name="psw" required>
+                      <input type="password" placeholder="" name="psw" id="senha2">
+
 
 
                       <div class="clearfix">
                             <div class="text-center">
-                                <button type="submit" class="btn btn-default" style="background-color: rgb(38,95,167); width: 50%; color: white;">ENTRAR</button>
+                                <input type="button" id="salvar2" class="btn btn-default" value="CRIAR CADASTRO" style="background-color:rgb(38,95,167); width: 50%;color: white;"><br>
                             </div>
                       </div>
 
                      </div>
-
+-->
                     </div>
 				</div>
 			</div>
@@ -119,11 +121,12 @@
 		<?php require_once "footer.php"; ?>
 				
 		<!-- Carregamento de arquivos JavaScript -->
-
-		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>        
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 		<script src="js/flickity.pkgd.min.js"></script>
+        <script src="js/total.js"></script>
+
 
         <script>
 
