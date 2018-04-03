@@ -94,7 +94,7 @@
                         </div>
 
                     <!-- Login -->
-					<!--
+				
                      <div role="tabpanel" class="tab-pane" id="login">
                       <label for="email">e-mail</label>
                       <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" id="email2">
@@ -111,7 +111,6 @@
                       </div>
 
                      </div>
--->
                     </div>
 				</div>
 			</div>
