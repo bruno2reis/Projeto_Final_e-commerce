@@ -10,14 +10,14 @@
 		<link rel="stylesheet" href="css/footer.css">
 		<link rel="stylesheet" href="css/carrosseis.css">
 		<link rel="stylesheet" href="css/carrinho.css">
-		<title>Medcare - Genéricos</title>
+		<title>Medcare - Carrinho</title>
 	</head>
 	
 	<body>
         
 		<?php require_once "nav.php"; ?>
 
-		<?php require_once "corpo_genericos.php"; ?>
+		<?php require_once "corpo_carrinho.php"; ?>
 
 		<?php require_once "footer.php"; ?>
 				

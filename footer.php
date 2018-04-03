@@ -23,8 +23,9 @@
 	<div class="container">
 		<div class="row text-center text-xs-center text-sm-left text-md-left" style="margin-bottom: 0; padding: 0">
 			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
-				<h4>Farmácia</h4>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+				<h4>Medcare</h4>
+				<p>Nossa missão é promover a saúde e bem estar da população brasileira através da qualidade de seus produtos farmacêuticos e atendimento ao consumidor.</p>
+				<p>Nossa visão é ser reconhecida como referência absoluta no ramo farmacêutico brasileiro.</p>
 			</div>
 			
 			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
@@ -42,10 +43,10 @@
 			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
 				<h4>Links úteis</h4>
 				<ul class="list-unstyled quick-links">
-					<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Link #1</a></li>
-					<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Link #2</a></li>
-					<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Link #3</a></li>
-					<li><a href="javascript:void();"><i class="fa fa-angle-double-right"></i>Link #4</a></li>
+					<li><a href="http://portal.anvisa.gov.br/"><i class="fa fa-angle-double-right"></i>Anvisa</a></li>
+					<li><a href="https://portal.cfm.org.br/"><i class="fa fa-angle-double-right"></i>Conselho Federal de Medicina</a></li>
+					<li><a href="http://www.cff.org.br/"><i class="fa fa-angle-double-right"></i>Conselho Federal de Farmácia</a></li>
+					<li><a href="http://portalms.saude.gov.br/"><i class="fa fa-angle-double-right"></i>Ministério da Saúde</a></li>
 				</ul>
 			</div>
 			
