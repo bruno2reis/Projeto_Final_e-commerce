@@ -13,7 +13,7 @@
 		<title>Medcare - Home</title>
 	</head>
 	
-	<body>
+	<body> 
         
 		<?php require_once "nav.php"; ?>
 
