@@ -49,11 +49,11 @@
 					  <input type="text" id="email" placeholder="Ex. joaodasilva@gmail.com" name="email">
 					</br>
 					  <label for="psw">senha</label>
-					  <input type="password" id="senha" placeholder="" name="psw">
+					  <input type="password" id="senha" name="psw">
 					
 					  <label for="cpf">CPF</label>
-					  <input type="number" id="cpf" placeholder="Ex. 123.456.789-12" name="cpf">
-
+					  <input type="text" id="cpf" placeholder="Ex. 123.456.789-12" name="cpf">
+					 </br>
 					  <label for="nome">seu nome</label>
 					  <input type="text" id="nome" placeholder="Ex. Leonardo" name="nome">
 
@@ -75,9 +75,15 @@
 					  <div id="mensagem_erro"></div>
 					  <div id="insere_aqui"></div>
 					</div>
-
-				<!-- Login -->
-			
+				 </div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </form>
+  
+  <form class="modal-content"  action="" id="myForm2">
+  <!-- Login -->
 				 <div role="tabpanel" class="tab-pane" id="login">
 				  <label for="email">e-mail</label>
 				  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" id="email2">
@@ -92,12 +98,7 @@
 							<input type="button" id="salvar2" class="btn btn-default" value="CRIAR CADASTRO" style="background-color:rgb(38,95,167); width: 50%;color: white;"><br>
 						</div>
 				  </div>
-
-				 </div>
-				</div>
-			</div>
-		</div>
-	</div>
+				
   </form>
 </div>
 

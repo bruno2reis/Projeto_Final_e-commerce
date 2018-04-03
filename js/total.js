@@ -12,6 +12,10 @@ $(document).ready(function () {
                   },
                   senha:{
                          required:true
+                  },
+                  cpf:{
+                      required:true,
+                      number:true,
                   }
                                                   
             },
@@ -22,11 +26,13 @@ $(document).ready(function () {
                   },
                   senha:{
                     required: "Digite o sua senha",
-                    minLength: "O sua senha deve conter, no mínimo, 2 caracteres"
-                  }
-                      
+                    minLength: "O sua senha deve conter, no mínimo, 5 caracteres"
+                  },
+                   
             }
-     });    
+     });
+     
+
         //var form = new FormData($(this)[0]);
 if($("#myForm").valid()){
     $.ajax({
