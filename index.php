@@ -103,7 +103,7 @@
 
                       <div class="clearfix">
                             <div class="text-center">
-                                <input type="button" id="salvar2" class="btn btn-default" value="CRIAR CADASTRO" style="background-color:rgb(38,95,167); width: 50%;color: white;"><br>
+                                <input type="button" id="salvar2" class="btn btn-default" value="Entrar" style="background-color:rgb(38,95,167); width: 50%;color: white;"><br>
                             </div>
                       </div>
 
