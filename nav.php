@@ -36,27 +36,27 @@
 	
 		<ul class="navbar-nav" style="float: none; margin: 0 auto">
 			<li class="nav-item">
-				<a class="nav-link" href="" style="padding-right: 70px; color: white">Medicamentos</a>
+				<a class="nav-link" href="medicamentos.php" style="padding-right: 70px; color: white">Medicamentos</a>
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" href="" style="padding-right: 70px; color: white">Beleza</a>
+				<a class="nav-link" href="beleza.php" style="padding-right: 70px; color: white">Beleza</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="" style="padding-right: 70px; color: white">Infantil</a>
+				<a class="nav-link" href="infantil.php" style="padding-right: 70px; color: white">Infantil</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="" style="padding-right: 70px; color: white">Promoções</a>
+				<a class="nav-link" href="promocoes.php" style="padding-right: 70px; color: white">Promoções</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="" style="padding-right: 70px; color: white">Cuidados Diários</a>
+				<a class="nav-link" href="cuidadosdiarios.php" style="padding-right: 70px; color: white">Cuidados Diários</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="" style="color: white">Genéricos</a>
+				<a class="nav-link" href="genericos.php" style="color: white">Genéricos</a>
 			</li>
 			
 		</ul>
