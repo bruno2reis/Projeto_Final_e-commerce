@@ -117,8 +117,12 @@ button:hover {
 	}
 }   
 
-
 /* Margem do conteúdo do popup para os botões de seleção superiores */
 .tab-content {
 	margin-top: 15px;
+}
+
+/* Preenchimento incorreto no popup de cadastro/login */
+.error{
+	 color:red
 }
