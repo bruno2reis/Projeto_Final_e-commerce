@@ -4,7 +4,7 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', '');
+define('DB_NAME', 'farma_senac');
   
 // habilita todas as exibições de erros
 ini_set('display_errors', true);
