@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
 	<head>
 		<meta charset="utf-8">
@@ -11,7 +12,15 @@
 		<link rel="stylesheet" href="css/carrinho.css">
 		<title>Medcare - Home</title>
 	</head>
-	
+
+		<style>
+			@media only screen and (max-width: 768px) {
+				#iconeLogo{
+					margin-bottom: 25px;
+				}
+			}
+		</style>
+
 	<body> 
         
 		<?php require_once "nav.php"; ?>

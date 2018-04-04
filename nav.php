@@ -1,22 +1,3 @@
-<!-- Saudações -->
-
-<div class="container">
-	<div class="form-row">
-		<div class="col-lg-8">
-			<label><h4>Olá, visitante!</h4></label>
-				<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Cadastro / Login</button>
-
-		</div>
-		<div class="col-lg-4">
-			<a href="" class="url">Atendimento</a> |
-			<a href="" class="url">Meus pedidos</a> |
-			<a href="" class="url">Meu perfil</a> |
-			<a href="carrinho.php"><img src="img/shoppingcart.png" height="18px"/></a>
-		</div>
-	</div>
-</div>
-
-	
 <!-- Popup de cadastro e login -->
 
 <div id="id01" class="modal">
@@ -49,11 +30,11 @@
 					  <input type="text" id="email" placeholder="Ex. joaodasilva@gmail.com" name="email">
 					</br>
 					  <label for="psw">senha</label>
-					  <input type="password" id="senha" name="psw">
+					  <input type="password" id="senha" placeholder="" name="psw">
 					
 					  <label for="cpf">CPF</label>
-					  <input type="text" id="cpf" placeholder="Ex. 123.456.789-12" name="cpf">
-					 </br>
+					  <input type="number" id="cpf" placeholder="Ex. 123.456.789-12" name="cpf">
+
 					  <label for="nome">seu nome</label>
 					  <input type="text" id="nome" placeholder="Ex. Leonardo" name="nome">
 
@@ -75,16 +56,9 @@
 					  <div id="mensagem_erro"></div>
 					  <div id="insere_aqui"></div>
 					</div>
-				 </div>
-				</div>
-			</div>
-		</div>
-	</div>
-  </form>
-  <!-- Login -->
-  <!--
-  <form class="modal-content"  action="" id="myForm2">
-  
+
+				<!-- Login -->
+			
 				 <div role="tabpanel" class="tab-pane" id="login">
 				  <label for="email">e-mail</label>
 				  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" id="email2">
@@ -99,9 +73,13 @@
 							<input type="button" id="salvar2" class="btn btn-default" value="CRIAR CADASTRO" style="background-color:rgb(38,95,167); width: 50%;color: white;"><br>
 						</div>
 				  </div>
-				
+
+				 </div>
+				</div>
+			</div>
+		</div>
+	</div>
   </form>
-  -->
 </div>
 
 
@@ -109,21 +87,50 @@
 
 <div class="container">
 
-    <div class="form-group row" style="height: 100px">
+    <div class="form-group row" style="margin-top: 15px">
 		
-        <div class="col-lg-2 col-md-2 col-sm-12 col-12">	<!-- No Bootstrap 4 col-* é o mesmo que col-xs-* -->
-            <a href="index.php" class="url"><img class="mx-auto d-block" id="iconeLogo" src="img/med1.png" height= 80px/></a>			<!-- Inserir e centralizar a imagem no bloco -->
+		<!-- Logo -->
+		
+        <div class="col-xl-2 col-lg-3 col-md-3 col-sm-12 col-12">	<!-- No Bootstrap 4 col-* é o mesmo que col-xs-* -->
+            <a href="index.php" class="url"><img id="iconeLogo" class="mx-auto d-block" src="img/med1.png" height= 80px></a>			<!-- Inserir e centralizar a imagem no bloco -->
         </div>
 		
-        <div class="col-lg-8 col-md-8 col-sm-11 col-11">
-            <input class="form-control" id="divBusca" type="text">
-        </div>
-		
-        <div class="col-lg-1 col-md-1 col-sm-1 col-1">
-            <input class="btn btn-primary" id="divBusca" type="button" value="Buscar">
-            <!--<button id="divBusca">Buscar</button>-->
-        </div>
+        <div class="col-xl-10 col-lg-9 col-md-9 col-sm-12 col-12">	<!-- No Bootstrap 4 col-* é o mesmo que col-xs-*  class="mx-auto d-block" -->
 
+			<div class="form-group row">
+		
+				<!-- Olá, visitante! Cadastro/login -->
+				
+				<div class="col-xl-6 col-lg-6 col-md-8 d-none d-md-block">
+					<label><h4>Olá, visitante!</h4></label>
+						<button onclick="document.getElementById('id01').style.display='block'" style="width:auto;">Cadastro / Login</button>
+				</div>
+				
+				<!-- Atendimento, meus pedidos, meu perfil e carrinho -->
+				
+				<div class="col-xl-6 col-lg-6 col-md-8 d-none d-lg-block text-right">
+					<a href="" class="url">Atendimento</a> |
+					<a href="" class="url">Meus pedidos</a> |
+					<a href="" class="url">Meu perfil</a> |
+					<a href="carrinho.php"><img src="img/shoppingcart.png" height="18px"/></a>		
+				</div>
+
+				<!-- Barra de buscas -->
+
+				
+				<div class="col-xl-12 col-lg-12 col-md-12 col-sm-11 col-11 mx-auto">
+
+					<div class="input-group">	<!-- Utilizamos input group para colocar o input e o botão na mesma linha -->
+						<input class="form-control" id="divBusca" type="text" style="margin-right: 25px">
+						<input class="btn btn-primary" id="divBusca" type="button" value="Buscar">
+					</div>
+					
+				</div>
+				
+			</div>
+
+		</div>
+		
 	</div>
 	
 </div>
