@@ -52,7 +52,7 @@
 		
 			<div class="col-lg-2 col-md-2 col-sm-6 col-6">
 				<div class="text-center">
-					<img src="img/novalgina.png" class="mx-auto d-block" width="150" alt="Novalgina">
+					<img src="../img/novalgina.png" class="mx-auto d-block" width="150" alt="Novalgina">
 				</div>
 			</div>
 
@@ -86,7 +86,7 @@
 		
 			<div class="col-lg-2 col-md-2 col-sm-6 col-6">
 				<div class="text-center">
-					<img src="img/novalgina.png" class="mx-auto d-block" width="150" alt="Novalgina">
+					<img src="../img/novalgina.png" class="mx-auto d-block" width="150" alt="Novalgina">
 				</div>
 			</div>
 

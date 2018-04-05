@@ -106,7 +106,7 @@
 			<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
 				<div class="bloco">
 					<div class="text-center">				
-						<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">						
+						<img class="thumb_prod" src="../img/novalgina.png" width="150" alt="Novalgina">						
 						<div class="card-title">Novalgina 1g 10 Comprimidos</div>
 						<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
 						<div class="card-text">R$ 15,00</div>								

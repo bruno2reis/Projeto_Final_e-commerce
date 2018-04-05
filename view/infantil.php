@@ -6,14 +6,14 @@
 		<meta charset="utf-8">
 		<title>Medcare - Infantil</title>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-		<link rel="stylesheet" href="css/cardslider.css">
+		<link rel="stylesheet" href="../css/cardslider.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-		<link rel="stylesheet" href="css/cadastro.css">
-		<link rel="stylesheet" href="css/flickity.css" media="screen">
-		<link rel="stylesheet" href="css/footer.css">
-		<link rel="stylesheet" href="css/carrosseis.css">
-		<link rel="stylesheet" href="css/carrinho.css">
-		<link rel="stylesheet" href="css/nav.css">
+		<link rel="stylesheet" href="../css/cadastro.css">
+		<link rel="stylesheet" href="../css/flickity.css" media="screen">
+		<link rel="stylesheet" href="../css/footer.css">
+		<link rel="stylesheet" href="../css/carrosseis.css">
+		<link rel="stylesheet" href="../css/carrinho.css">
+		<link rel="stylesheet" href="../css/nav.css">
 		<meta name="author" content="Grupo 1 - Senac">
 		<meta name="description" content="Medcare - A sua farmácia referência">
 	</head>

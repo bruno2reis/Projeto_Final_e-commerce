@@ -18,54 +18,6 @@
 		<meta name="description" content="Medcare - A sua farmácia referência">
 	</head>
 
-		<style>
-			
-			@media only screen and (max-width: 768px) {
-				#botaocarrinho{
-					width: 80%;
-				}
-				
-				#meucarrinho{
-					font-size: 29px;
-				}
-			}
-
-			
-			#navprincipal{
-				background-color: rgb(38,95,167);
-			}
-			
-			
-			#menuitem{
-				padding-right: 70px;
-			}
-			
-			/* Colocar uma margem inferior no logo em dispositivos pequenos */
-			@media only screen and (max-width: 768px) {
-				#iconeLogo{
-					margin-bottom: 25px;
-				}
-			}
-			
-			/* Fixar o tamanho da barra do menu em dispositivos médios e grandes */
-			@media only screen and (min-width: 768px) {
-				#navprincipal{
-					height: 40px;
-				}			
-			}
-
-			
-			/* Diminuir o padding dos itens do menu em dispositivos até 992px */
-			@media only screen and (max-width: 992px) {
-
-				#menuitem{
-					padding-right: 35px;
-				}
-			}
-			
-			
-		</style>
-
 	<body> 
         
 		<?php require_once "nav.php"; ?>
