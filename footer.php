@@ -21,14 +21,14 @@
 	</div>		
 					
 	<div class="container">
-		<div class="row text-center text-xs-center text-sm-left text-md-left" style="margin-bottom: 0; padding: 0">
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+		<div class="row text-center text-xs-center text-sm-center text-md-left" style="margin-bottom: 0; padding: 0">
+			<div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
 				<h4>Medcare</h4>
-				<p>Nossa missão é promover a saúde e bem estar da população brasileira através da qualidade de seus produtos farmacêuticos e atendimento ao consumidor.</p>
-				<p>Nossa visão é ser reconhecida como referência absoluta no ramo farmacêutico brasileiro.</p>
+				<p>Nossa missão é promover a saúde e bem estar da população brasileira através da qualidade de nossos produtos farmacêuticos e excelente atendimento ao consumidor.</p>
+				<p>Nossa visão é sermos reconhecidos como referência absoluta no ramo farmacêutico brasileiro.</p>
 			</div>
 			
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+			<div class="col-12 col-sm-12 col-md-5 col-lg-3 col-xl-3 mr-auto">
 				<h4>Categorias</h4>
 				<ul class="list-unstyled quick-links">
 					<li><a href="medicamentos.php"><i class="fa fa-angle-double-right"></i>Medicamentos</a></li>
@@ -40,7 +40,7 @@
 				</ul>
 			</div>
 			
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+			<div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
 				<h4>Links úteis</h4>
 				<ul class="list-unstyled quick-links">
 					<li><a href="http://portal.anvisa.gov.br/"><i class="fa fa-angle-double-right"></i>Anvisa</a></li>
@@ -50,7 +50,7 @@
 				</ul>
 			</div>
 			
-			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-3">
+			<div class="col-12 col-sm-12 col-md-5 col-lg-3 col-xl-3">
 				<h4>Contato</h4>
 				<ul class="list-unstyled quick-links">
 					<li><a href="javascript:void();"><i class="fa fa-home mr-3"></i> Rio de Janeiro, RJ</a></li>

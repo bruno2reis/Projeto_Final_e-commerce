@@ -12,12 +12,14 @@
             <!-- Preço e botão para comprar -->
             <div class="row" style="border-style: outset">
 
-                <div class="col-lg-7 col-md-7 col-xs-12" style="margin-top: 40px; margin-bottom: 40px">
+                <div class="col-lg-7 col-md-7 col-12">
                     <h3>R$ 44,54</h3>
                 </div>
 
-                <div class="col-lg-3 col-md-7 col-xs-12" style="margin-top: 40px; margin-bottom: 40px">
+                <div class="col-lg-6 col-md-7 col-12">
+				<div class="text-center">
                     <button type="button" class="btn btn-primary" style="inline-block">COMPRAR</button>
+					</div>
                 </div>
 
             </div>

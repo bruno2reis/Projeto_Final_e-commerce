@@ -6,3 +6,13 @@
 .page-header {
 	padding-top: 20px;
 }
+
+			@media only screen and (max-width: 768px) {
+				#botaocarrinho{
+					width: 80%;
+				}
+				
+				#meucarrinho{
+					font-size: 29px;
+				}
+			}
