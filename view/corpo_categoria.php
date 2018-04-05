@@ -4,9 +4,9 @@
 	<head>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-		<link rel="stylesheet" href="css/cardslider.css">
+		<link rel="stylesheet" href="../css/cardslider.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-		<link rel="stylesheet" href="css/cadastro.css">
+		<link rel="stylesheet" href="../css/cadastro.css">
 		<title>Medicamentos</title>
 		
 		<style>
@@ -64,7 +64,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="../img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -82,7 +82,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="../img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -101,7 +101,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="../img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
@@ -119,7 +119,7 @@
 						<div class="card">
 							<div class="text-center">
 								<div class="card-img-top card-img-top-150">
-									<img class="thumb_prod" src="img/novalgina.png" width="150" alt="Novalgina">
+									<img class="thumb_prod" src="../img/novalgina.png" width="150" alt="Novalgina">
 								</div>
 								<div class="card-block p-t-2">									
 									<div class="card-title">Novalgina 1g 10 Comprimidos</div>
