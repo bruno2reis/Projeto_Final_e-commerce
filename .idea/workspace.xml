@@ -1,135 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b199521-c1f9-437e-9c8b-c9b68aeb375c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/banco.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cadastro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/funcao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/new.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/change-version.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/npm-shrinkwrap.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/grunt/sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/js/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/image.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/reset-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/resize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/size.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/mixins/vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/package.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/MED1.png" afterPath="$PROJECT_DIR$/img/med1.png" />
+    <list default="true" id="2b199521-c1f9-437e-9c8b-c9b68aeb375c" name="Default" comment="fim cad">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cad.php" afterPath="$PROJECT_DIR$/cad.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corpo_total.php" afterPath="$PROJECT_DIR$/corpo_total.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/init.php" afterPath="$PROJECT_DIR$/init.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -144,9 +17,15 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="340">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1522937430474" expanded="true" signature="1031:2027" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="1038:2019" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="1057:1082" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="1093:1126" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="1137:1165" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,9 +33,16 @@
       <file leaf-file-name="nav.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nav.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="59" column="40" lean-forward="false" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="40" />
-              <folding />
+            <state relative-caret-position="640">
+              <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+              <folding>
+                <marker date="1522937430474" expanded="true" signature="2816:2858" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="2816:2988" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="2816:2998" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="2816:3007" ph="..." />
+                <marker date="1522937430474" expanded="true" signature="2887:2976" ph="..." />
+                <marker date="1522937430474" expanded="false" signature="2941:2953" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,7 +50,7 @@
       <file leaf-file-name="total.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/total.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
+            <state relative-caret-position="1140">
               <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
               <folding />
             </state>
@@ -174,7 +60,7 @@
       <file leaf-file-name="cad.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cad.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="880">
               <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding>
                 <marker date="1522896390320" expanded="true" signature="883:933" ph="select email... farma_senac" />
@@ -207,8 +93,8 @@
       <file leaf-file-name="cadastro.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cadastro.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="20">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -227,7 +113,7 @@
       <file leaf-file-name="banco.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/banco.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
+            <state relative-caret-position="280">
               <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
               <folding />
             </state>
@@ -313,10 +199,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1303" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -333,8 +219,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -349,6 +233,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -380,13 +266,20 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/cad.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/beleza.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cadastro.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/carrinho.php</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_carrinho.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/cadastro.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_produto.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/carrinho.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cuidadosdiarios.php</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/footer.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/genericos.php</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/index.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/total.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/infantil.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/medicamentos.php</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/nav.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/promocoes.php</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Created" />
@@ -394,26 +287,52 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/beleza.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/carrinho.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_beleza.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_cuidadosdiarios.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_genericos.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_infantil.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_medicamentos.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_promocoes.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/carrinho.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/cuidadosdiarios.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/functions.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/genericos.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/MED1.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/MED2.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/shoppingcart.png</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/infantil.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/init.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/cadastro.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/medicamentos.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/promocoes.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Beleza/Corpo e Rosto/Imagens_Textos/+üguaMicelar.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Beleza/Corpo e Rosto/Imagens_Textos/+üguaMicelar.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Beleza/Maquiagem/Imagens_Textos/Base_L+¡quida_Maybelline.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Beleza/Maquiagem/Imagens_Textos/Base_L+¡quida_Maybelline.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Beleza/Maquiagem/Imagens_Textos/Base_L+¡quida_Vult.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Beleza/Maquiagem/Imagens_Textos/Base_L+¡quida_Vult.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Antiinflamat+¦rios/Imagens_Textos/Arnica Montana_Antiinflamatorio.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Antiinflamat+¦rios/Imagens_Textos/Arnica Montana_Antinflamatorio.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Antiinflamat+¦rios/Imagens_Textos/Cataflam Pro_Antiinflamatorio.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Antiinflamat+¦rios/Imagens_Textos/CataflamPro_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Antiinflamat+¦rios/Imagens_Textos/CataflamPro_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/+ôleo de Peixe Votag.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/+ôleo ePeixeVotag.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/Fitocor 650.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/Fitocor 650.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Composto Lácteo Nestlé Ninho Fases 1+ 400g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Composto Lácteo Nestlé Ninho Fases 1+ 400g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Fórmula Infantil Althéra 450g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Fórmula Infantil Althéra 450g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Fórmula Infantil NAN Comfor 1 800g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Fórmula Infantil NAN Comfor 1 800g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Leite Nestlé Neslac Supreme Lata 800g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Leite Nestlé Neslac Supreme Lata 800g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Papinha Nestlé Banana com Aveia Pote 120g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Alimentação/Papinha Nestlé Banana com Aveia Pote 120g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Banho/Kit Shampoo + Condicionador Ricca Barbie Cachos Definidos 250ml Cada.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Banho/Kit Shampoo + Condicionador Ricca Barbie Cachos Definidos 250ml Cada.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Banho/Shampoo Johnson's Baby Proteção UV 200ml.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Banho/Shampoo Johnson's Baby Proteção UV 200ml.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Mãe e bebê/Fraldas/Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Diagnostico/Imagens_Textos/Aparelho_de_Press+úo.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Diagnostico/Imagens_Textos/Aparelho_de_Press+úo_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Diagnostico/Imagens_Textos/Aparelho_de_Press+úo_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Diagnostico/Imagens_Textos/Aparelho_de_Press+úo_03.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Higiene +ìntimaPessoal/Imagens_Textos/Gel_Lubrificante_Easy.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Higiene +ìntimaPessoal/Imagens_Textos/Gel_Lubrificante_Easy.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Higiene +ìntimaPessoal/Imagens_Textos/Preservativo_Blowtex.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/Saude/Higiene +ìntimaPessoal/Imagens_Textos/Preservativo_Blowtex.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_cadastro.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_login.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/nav.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/imagens/Carrocel/mobile_1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/imagens/Carrocel/mobile_2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/imagens/Carrocel/mobile_3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/imagens/Carrocel/mobile_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/login.php</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -627,28 +546,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97939000" />
+    <option name="totallyTimeSpent" value="97990000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24143426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24541833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.49721116" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24143426" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -679,7 +610,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="'inicio do time'" />
     <MESSAGE value="Falta só o carrocel principal." />
-    <option name="LAST_COMMIT_MESSAGE" value="Falta só o carrocel principal." />
+    <MESSAGE value="fim cad" />
+    <option name="LAST_COMMIT_MESSAGE" value="fim cad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -712,7 +644,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
+          <folding>
+            <marker date="1522937430474" expanded="true" signature="1031:2027" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1038:2019" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1057:1082" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1093:1126" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1137:1165" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -742,7 +680,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
+          <folding>
+            <marker date="1522937430474" expanded="true" signature="1031:2027" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1038:2019" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1057:1082" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1093:1126" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1137:1165" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -765,7 +709,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
+          <folding>
+            <marker date="1522937430474" expanded="true" signature="1031:2027" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1038:2019" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1057:1082" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1093:1126" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1137:1165" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -802,7 +752,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
+          <folding>
+            <marker date="1522937430474" expanded="true" signature="1031:2027" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1038:2019" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1057:1082" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1093:1126" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1137:1165" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -825,7 +781,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding />
+          <folding>
+            <marker date="1522937430474" expanded="true" signature="1031:2027" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1038:2019" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1057:1082" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1093:1126" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1137:1165" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -932,9 +894,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -948,7 +907,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/total.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
+        <state relative-caret-position="1140">
           <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
           <folding />
         </state>
@@ -956,8 +915,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cadastro.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -972,23 +931,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="59" column="40" lean-forward="false" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="40" />
-          <folding />
+        <state relative-caret-position="640">
+          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <marker date="1522937430474" expanded="true" signature="2816:2858" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="2816:2988" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="2816:2998" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="2816:3007" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="2887:2976" ph="..." />
+            <marker date="1522937430474" expanded="false" signature="2941:2953" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="340">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1522937430474" expanded="true" signature="1031:2027" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1038:2019" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1057:1082" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1093:1126" ph="..." />
+            <marker date="1522937430474" expanded="true" signature="1137:1165" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/banco.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
+        <state relative-caret-position="280">
           <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
           <folding />
         </state>
@@ -1012,7 +984,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cad.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="880">
           <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding>
             <marker date="1522896390320" expanded="true" signature="883:933" ph="select email... farma_senac" />
