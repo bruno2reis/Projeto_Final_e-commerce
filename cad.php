@@ -31,8 +31,9 @@
             if ($stmt->execute())
             {
                 $html = "<p> Usuário cadastrado com sucesso!</p>";
-                echo $html;
+                //echo $html;
                 // o header location não funcionão ver outra forma
+                echo "<script type='text/javascript'>alerte('Usuario cadastrado com sucesso!)</script>";
             }
             else
             {
