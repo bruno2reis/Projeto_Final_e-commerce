@@ -1,7 +1,10 @@
 <!doctype html>
 <html>
 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" Content="IE-Edge">
 		<meta charset="utf-8">
+		<title>Medcare - Login</title>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 		<link rel="stylesheet" href="css/cardslider.css">
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -10,56 +13,12 @@
 		<link rel="stylesheet" href="css/footer.css">
 		<link rel="stylesheet" href="css/carrosseis.css">
 		<link rel="stylesheet" href="css/carrinho.css">
-		<title>Medcare - Home</title>
+		<link rel="stylesheet" href="css/nav.css">
+		<meta name="author" content="Grupo 1 - Senac">
+		<meta name="description" content="Medcare - A sua farmácia referência">
 	</head>
 
-		<style>
-			
-			@media only screen and (max-width: 768px) {
-				#botaocarrinho{
-					width: 80%;
-				}
-				
-				#meucarrinho{
-					font-size: 29px;
-				}
-			}
-
-			
-			#navprincipal{
-				background-color: rgb(38,95,167);
-			}
-			
-			
-			#menuitem{
-				padding-right: 70px;
-			}
-			
-			/* Colocar uma margem inferior no logo em dispositivos pequenos */
-			@media only screen and (max-width: 768px) {
-				#iconeLogo{
-					margin-bottom: 25px;
-				}
-			}
-			
-			/* Fixar o tamanho da barra do menu em dispositivos médios e grandes */
-			@media only screen and (min-width: 768px) {
-				#navprincipal{
-					height: 40px;
-				}			
-			}
-
-			
-			/* Diminuir o padding dos itens do menu em dispositivos até 992px */
-			@media only screen and (max-width: 992px) {
-
-				#menuitem{
-					padding-right: 35px;
-				}
-			}
-			
-			
-		</style>
+	<body> 
 
 	<body> 
         

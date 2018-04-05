@@ -51,15 +51,15 @@
 </div>
 
 
-<!-- Nav -->
+<!-- Nav para telas maiores -->
 
-<nav class="navbar navbar-expand-md navbar-dark" id="navprincipal">    <!-- style="background-color: red"  -->
+<nav class="navbar navbar-expand-md navbar-dark" id="navdesktop">    <!-- style="background-color: red"  -->
 
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse_target" aria-expanded="false" aria-label="Toggle navigation">
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse_desktop" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
 	</button>
 
-	<div class="collapse navbar-collapse" id="collapse_target">
+	<div class="collapse navbar-collapse" id="collapse_desktop">
 	
 		<ul class="navbar-nav" style="float: none; margin: 0 auto">
 			<li class="nav-item">
@@ -91,3 +91,77 @@
 	</div>
 	
 </nav>
+
+
+<!-- Nav para telas menores -->
+
+<nav class="navbar navbar-expand-md navbar-dark" id="navmobile">    <!-- style="background-color: red"  -->
+
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse_mobile" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+
+	<div class="collapse navbar-collapse" id="collapse_mobile">
+	
+		<ul class="navbar-nav" style="float: none; margin: 0 auto">
+			<li class="nav-item">
+				<a class="nav-link" id="menuitem" href="medicamentos.php" style="color: white">Medicamentos</a>
+			</li>
+
+			<li class="nav-item">
+				<a class="nav-link" id="menuitem" href="beleza.php" style="color: white">Beleza</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" id="menuitem" href="infantil.php" style="color: white">Infantil</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" id="menuitem" href="promocoes.php" style="color: white">Promoções</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" id="menuitem" href="cuidadosdiarios.php" style="color: white">Cuidados Diários</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" href="genericos.php" style="color: white">Genéricos</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" href="cadastro.php" style="color: white">Cadastro</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" href="Login.php" style="color: white">Login</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" href="" style="color: white">Atendimento</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" href="" style="color: white">Meus pedidos</a>
+			</li>
+			
+			<li class="nav-item">
+				<a class="nav-link" href="" style="color: white">Meus perfil</a>
+			</li>
+			
+		</ul>
+	
+	</div>
+	
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
