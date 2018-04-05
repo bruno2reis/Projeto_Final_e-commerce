@@ -1,13 +1,11 @@
 <!-- Carrossel inicial -->
 		
 <div class="main-carousel" id="crs1" data-flickity='{ "wrapAround": true, "autoPlay": 3000 }'>		<!-- 3000 está em milisegundos -> equivale a 3 segundos -->
-	<div class="carousel-cell"><img id="crs1" src="img/banner/banner_1.jpg"></div>
-	<div class="carousel-cell"><img id="crs1" src="img/banner/banner_2.jpg"></div>
-	<div class="carousel-cell"><img id="crs1" src="img/banner/banner_3.jpg"></div>
-	<div class="carousel-cell"><img id="crs1" src="img/banner/banner_4.jpg"></div>
+	<div class="carousel-cell"><img id="crs1" src="img/Banner/banner_1.jpg"></div>
+	<div class="carousel-cell"><img id="crs1" src="img/Banner/banner_2.jpg"></div>
+	<div class="carousel-cell"><img id="crs1" src="img/Banner/banner_3.jpg"></div>
+	<div class="carousel-cell"><img id="crs1" src="img/Banner/banner_4.jpg"></div>
 </div>
-
-
 
 <!-- Promoções da semana -->
 

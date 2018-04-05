@@ -1,16 +1,26 @@
 <?php
  
  require_once 'init.php';
-
-
-    if(isset($_POST['email']) && isset($_POST['psw']) && $_POST['email'] != '' && $_POST['psw'] != '') {
+    if(isset($_POST['email']) && isset($_POST['psw']) && isset($_POST['nome'])
+        && isset($_POST['cpf']) && isset($_POST['dtnasc']) && isset($_POST['sexo'])
+        && isset($_POST['tel']) && $_POST['email'] != '' && $_POST['psw'] != ''
+        && $_POST['nome'] != '' && $_POST['cpf'] =! '' && $_POST['dtnasc']
+            && $_POST['tel'] != '' && $_POST['sexo']) {
      
         $email = strip_tags($_POST['email']); 
-        $senha = strip_tags(md5($_POST['psw'])); 
-        
+        $senha = strip_tags(md5($_POST['psw']));
+        $nome = strip_tags($_POST['nome']);
+        $cpf = strip_tags($_POST['cpf']);
+        $dtnascimento = strip_tags($_POST['dtnasc']);
+        $tel = strip_tags($_POST['tel']);
+        $sexo = strip_tags($_POST['sexo']);
+
         $PDO = db_connect();
 
         session_start();
+
+        session_cache_expire(0);
+        //$_SESSION['usuario'] = $nome;
 
         $sql = "select email from farma_senac where email = :email";
         $result_id = $PDO->prepare($sql);
@@ -19,40 +29,31 @@
         $num_rows = $result_id->fetchColumn();
 
         if($num_rows > 0){
-            // o header location não funcionão ver outra forma
-                header("Location: index.php");
+            echo "<script>alert(' Usuário cadastrado já está cadastrado!'); document.location.href = 'index.php';</script>";
         }else{
-            $sql = "INSERT INTO usuario(senha, email) VALUES(:senha, :email)";
+            $sql = "INSERT INTO usuario(senha, email, nome,cpf, dtnascimento, telefone, sexo) 
+                VALUES
+                    (:senha, :email, :nome, :cpf, :dtnascimento, :telefone, :sexo)";
             $stmt = $PDO->prepare($sql);
             $stmt->bindParam(':senha', $senha);   
             $stmt->bindParam(':email', $email);
-     
-     
+            $stmt->bindParam(':nome', $nome);
+            $stmt->bindParam(':cpf', $cpf);
+            $stmt->bindParam(':dtnascimento', $dtnascimento);
+            $stmt->bindParam(':telefone', $tel);
+            $stmt->bindParam(':sexo', $sexo);
+
             if ($stmt->execute())
             {
-                $html = "<p> Usuário cadastrado com sucesso!</p>";
-                echo $html;
-                // o header location não funcionão ver outra forma
+                $_SESSION['usuario'] = $stmt->lastInsertId();
+                echo "<script>alert(' Usuário cadastrado com sucesso!'); document.location.href = 'index.php';</script>";
             }
             else
             {
                 echo "Erro ao cadastrar </br>";
                 print_r($stmt->errorInfo());
             }
-            
         }
-
-        /*    
-        sleep(2); //apagar
-         
-        $html = "<p>Os dados enviados foram:</p>";
-        $html .= "<ul>";
-        $html .= "<li>Email: <strong>$email</strong></li>";
-        $html .= "<li>Senha: <strong>$psw</strong>";
-        $html .= "</ul>";
-         
-        echo $html;
-    */ 
     } else {
      
         echo "<script type='text/javascript'>alert('Por favor preencha os campos')</script>"; 
