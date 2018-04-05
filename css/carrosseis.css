@@ -1,7 +1,6 @@
 /*Carrossel 1 - Banners */
 
-		#crs1 .carousel-cell {
-			width: 100%;
+		#crs1 .carousel-cell {	
 			margin-right: 10px;
 			background: #8C8;
 			border-radius: 5px;
@@ -16,10 +15,55 @@
 			color: white;
 		}
 
-		#crs1 img {
-			max-width: 100%;
-		}
 
+		
+		/* Carrossel em dispositivos muito grandes */
+		@media only screen and (min-width: 1200px) {
+			#crs1 .carousel-cell {
+				width: 100%	/* Alinha à esquerda - Deixar em telas grandes */
+			}
+			
+			#crs1 img {
+				max-width: 100%;	/* Deixar em telas grandes */
+			}
+		}
+		
+
+		/* Carrossel em dispositivos grandes */
+		@media only screen and (max-width: 1200px) {
+			#crs1 .carousel-cell {
+					/* Alinha à esquerda - Deixar em telas grandes */
+			}
+			
+			#crs1 img {
+				height: 300px;	/* Deixar em telas grandes */
+			}
+		}
+		
+		/* Carrossel em dispositivos médios */
+		@media only screen and (max-width: 992px) {
+			#crs1 .carousel-cell {
+					/* Alinha à esquerda - Deixar em telas grandes */
+			}
+			
+			#crs1 img {
+				height: 300px;	/* Deixar em telas grandes */
+			}
+		}
+		
+		/* Carrossel em dispositivos pequenos */
+		@media only screen and (max-width: 768px) {
+			#crs1 .carousel-cell {
+					/* Alinha à esquerda - Deixar em telas grandes */
+			}
+			
+			#crs1 img {
+				height: 250px;	/* Deixar em telas grandes */
+			}
+		}
+		
+		
+		
 /*Carrossel 2, 3 e 4 - Promoções, Mais Vendidos e Novidades */
 
 
