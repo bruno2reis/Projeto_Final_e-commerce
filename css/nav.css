@@ -1,5 +1,5 @@
 			
-			#navprincipal{
+			#navdesktop, #navmobile{
 				background-color: rgb(38,95,167);
 			}
 			
@@ -8,18 +8,26 @@
 				padding-right: 70px;
 			}
 			
-			/* Colocar uma margem inferior no logo em dispositivos pequenos */
+			/* Colocar uma margem inferior no logo em dispositivos pequenos e não mostrar menu desktop */
 			@media only screen and (max-width: 768px) {
 				#iconeLogo{
 					margin-bottom: 25px;
 				}
+				
+				#navdesktop{
+					display: none;
+				}
 			}
 			
-			/* Fixar o tamanho da barra do menu em dispositivos médios e grandes */
+			/* Fixar o tamanho da barra do menu em dispositivos médios e grandes e não mostrar menu mobile */
 			@media only screen and (min-width: 768px) {
-				#navprincipal{
+				#navdesktop{
 					height: 40px;
-				}			
+				}
+				
+				#navmobile{
+					display: none;
+				}
 			}
 
 			
