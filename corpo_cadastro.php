@@ -30,7 +30,7 @@
 			  <label for="dtnasc">data de nascimento</label><br>
 			  <input type="date" id="dtnasc" placeholder="Ex. 01/01/1999" name="dtnasc"><br>
 
-			  <label for="sexo">sexo</label><br>
+			  <label for="sexo" name="sexo">sexo</label><br>
 			  <input type="radio" name="sexo" value="masc" checked>Masculino
 			  <input type="radio" name="sexo" value="fem">Feminino<br><br>
 

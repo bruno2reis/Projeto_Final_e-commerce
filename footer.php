@@ -5,17 +5,17 @@
 		<div class="text-center" style="margin:0"><h4 style="color: white; margin-bottom: 15px">Formas de Pagamento</h4></div>
 		
 		<div class="text-center" style="margin: 0px; ">
-			<img src="../pagamento/cartao_visa.png" alt=visa>
-			<img src="../pagamento/cartao_master.png" alt=master>
-			<img src="../pagamento/cartao_elo.png" alt=elo>
-			<img src="../pagamento/cartao_amex.png" alt=amex>
-			<img src="../pagamento/cartao_diners.png" alt=diners>
-			<img src="../pagamento/cartao_itau.png" alt=itau>
-			<img src="../pagamento/cartao_bradesco.png" alt=brad>
-			<img src="../pagamento/cartao_hiper.png" alt=hiper>
-			<img src="../pagamento/cartao_hipercard.png" alt=hipcard>
-			<img src="../pagamento/cheque.png" alt=cheque>
-			<img src="../pagamento/money.png" alt=dinheiro>
+			<img src="pagamento/cartao_visa.png" alt=visa>
+			<img src="pagamento/cartao_master.png" alt=master>
+			<img src="pagamento/cartao_elo.png" alt=elo>
+			<img src="pagamento/cartao_amex.png" alt=amex>
+			<img src="pagamento/cartao_diners.png" alt=diners>
+			<img src="pagamento/cartao_itau.png" alt=itau>
+			<img src="pagamento/cartao_bradesco.png" alt=brad>
+			<img src="pagamento/cartao_hiper.png" alt=hiper>
+			<img src="pagamento/cartao_hipercard.png" alt=hipcard>
+			<img src="pagamento/cheque.png" alt=cheque>
+			<img src="pagamento/money.png" alt=dinheiro>
 		</div>
 				
 	</div>		

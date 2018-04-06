@@ -1,4 +1,4 @@
-<form class="modal-content" action="" id="formCadastro" style="margin-top: 35px">
+<form class="modal-content" action="" id="formLogin" style="margin-top: 35px">
 	<div class="container">
 		<div class="row">
 
@@ -21,7 +21,7 @@
 
 				  <div class="clearfix">
 						<div class="text-center">
-							<input type="button" id="salvar2" class="btn btn-outline-primary" value="ENTRAR"><br>
+							<input type="button" id="logar" class="btn btn-outline-primary" value="ENTRAR"><br>
 						</div>
 				  </div>
 			  
