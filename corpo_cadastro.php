@@ -9,8 +9,6 @@
 			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
 				<a href="login.php"><button type="button" class="btn btn-outline-primary">LOGIN</button></a>
 			</div>
-			
-		
 			<div class="col-sm-12">
 			  </br>
 			  <label for="email">e-mail</label>

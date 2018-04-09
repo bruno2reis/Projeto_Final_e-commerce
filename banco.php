@@ -12,4 +12,4 @@ error_reporting(E_ALL);
 date_default_timezone_set('America/Sao_Paulo');
 
 
-require_once "funcao.php";
+require_once "functions.php";

@@ -31,12 +31,12 @@
 			<div class="col-12 col-sm-12 col-md-5 col-lg-3 col-xl-3 mr-auto">
 				<h4>Categorias</h4>
 				<ul class="list-unstyled quick-links">
-					<li><a href="medicamentos.php"><i class="fa fa-angle-double-right"></i>Medicamentos</a></li>
-					<li><a href="beleza.php"><i class="fa fa-angle-double-right"></i>Beleza</a></li>
-					<li><a href="infantil.php"><i class="fa fa-angle-double-right"></i>Infantil</a></li>
-					<li><a href="promocoes.php"><i class="fa fa-angle-double-right"></i>Promoções</a></li>
-					<li><a href="cuidadosdiarios.php"><i class="fa fa-angle-double-right"></i>Cuidados Diários</a></li>
-					<li><a href="genericos.php"><i class="fa fa-angle-double-right"></i>Genéricos</a></li>			
+					<li><a href="view/medicamentos.php"><i class="fa fa-angle-double-right"></i>Medicamentos</a></li>
+					<li><a href="view/beleza.php"><i class="fa fa-angle-double-right"></i>Beleza</a></li>
+					<li><a href="view/infantil.php"><i class="fa fa-angle-double-right"></i>Infantil</a></li>
+					<li><a href="view/promocoes.php"><i class="fa fa-angle-double-right"></i>Promoções</a></li>
+					<li><a href="view/cuidadosdiarios.php"><i class="fa fa-angle-double-right"></i>Cuidados Diários</a></li>
+					<li><a href="view/genericos.php"><i class="fa fa-angle-double-right"></i>Genéricos</a></li>
 				</ul>
 			</div>
 			

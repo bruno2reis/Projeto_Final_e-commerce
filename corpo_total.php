@@ -28,7 +28,7 @@
 				<div class="card-subtitle mb-2 text-muted">Sanofi Aventis</div>
 				<div class="card-text">R$ 15,00</div>								
 				<br>
-				<a href="" class="btn btn-primary">Adicionar ao carrinho</a>
+				<a href="#" class="btn btn-primary">Adicionar ao carrinho</a>
 			</div>
 		</div>
 	</div>

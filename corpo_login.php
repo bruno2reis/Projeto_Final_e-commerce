@@ -14,17 +14,18 @@
 			<div class="col-sm-12">
 				  <br>
 				  <label for="email">e-mail</label>
-				  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" id="email2">
+				  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" id="email">
 
 				  <label for="psw">senha</label>
-				  <input type="password" placeholder="" name="psw" id="senha2">
+				  <input type="password" placeholder="" name="psw" id="psw">
 
 				  <div class="clearfix">
 						<div class="text-center">
 							<input type="button" id="logar" class="btn btn-outline-primary" value="ENTRAR"><br>
 						</div>
 				  </div>
-			  
+                <div id="mensagem_erro"></div>
+                <div id="insere_aqui"></div>
 			</div>
 		</div>
 	</div>

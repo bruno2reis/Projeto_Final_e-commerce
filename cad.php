@@ -14,9 +14,9 @@
         $nome = strip_tags($_POST['nome']);
         $cpf = strip_tags($_POST['cpf']);
         //var_dump($_POST['dtnasc']);die;
-        $date_nasc = dateConvert($_POST['dtnasc']); 
+        //$date_nasc = dateConvert($_POST['dtnasc']);
         //var_dump($date_nasc);die;
-        $sexo = strip_tags($_POST['sexo']);
+        //$sexo = strip_tags($_POST['sexo']);
         $tel = strip_tags($_POST['tel']);
 
         $PDO = db_connect();
@@ -33,14 +33,14 @@
             echo "<script type='text/javascript'>alert('Usuario já cadastrado !'); window.location.href = 'index.php'; </script>";
     
         }else{
-            $sql = "INSERT INTO usuario(senha, email, nome, cpf, dt_nascimento, sexo, telefone) VALUES (:senha, :email, :nome, :cpf, :dt_nascimento, :sexo, :telefone)";
+            $sql = "INSERT INTO usuario(senha, email, nome, cpf, telefone) VALUES (:senha, :email, :nome, :cpf,   :telefone)";
             $stmt = $PDO->prepare($sql);
             $stmt->bindParam(':senha', $senha);   
             $stmt->bindParam(':email', $email);
             $stmt->bindParam(':nome', $nome);
             $stmt->bindParam(':cpf', $cpf);
-            $stmt->bindParam(':dt_nascimento', $date_nasc);
-            $stmt->bindParam(':sexo', $sexo);
+            //$stmt->bindParam(':dt_nascimento', $date_nasc);
+            //$stmt->bindParam(':sexo', $sexo);
             $stmt->bindParam(':telefone', $tel);
      
      

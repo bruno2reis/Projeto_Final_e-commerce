@@ -1,8 +1,5 @@
 <?php
-  
-/**
- * Conecta com o MySQL usando PDO
- */
+
 function db_connect()
 {
     $PDO = new PDO('mysql:host=' . DB_HOST . ';dbname=' . DB_NAME . ';charset=utf8', DB_USER, DB_PASS);
@@ -30,20 +27,20 @@ function dateConvert($date)
         sscanf($date, '%d/%d/%d', $d, $m, $y);
         return sprintf('%04d-%02d-%02d', $y, $m, $d);
     }
- 
-    return false;
+
+   return false;
 }
- 
- 
+
+
 /**
  * Calcula a idade a partir da data de nascimento
  *
- * Sobre a classe DateTime: http://rberaldo.com.br/php-usando-a-classe-nativa-datetime/
+ * Sobre a classe DateTime
  */
-function calculateAge($birthdate)
+function calculaidade($dtnascimento)
 {
     $now = new DateTime();
-    $diff = $now->diff(new DateTime($birthdate));
-     
+    $diff = $now->diff(new DateTime($dtnascimento));
+
     return $diff->y;
 }
