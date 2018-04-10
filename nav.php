@@ -27,7 +27,7 @@
 					<a href="" class="url">Atendimento</a> |
 					<a href="" class="url">Meus pedidos</a> |
 					<a href="" class="url">Meu perfil</a> |
-					<a href="view/carrinho.php"><img src="img/shoppingcart.png" height="30px"/></a>
+					<a href="carrinho.php"><img src="img/shoppingcart.png" height="30px"/></a>
 				</div>
 
 				<!-- Barra de buscas -->
@@ -63,27 +63,27 @@
 	
 		<ul class="navbar-nav" style="float: none; margin: 0 auto">
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/medicamentos.php" style="color: white">Medicamentos</a>
+				<a class="nav-link" id="menuitem" href="medicamentos.php" style="color: white">Medicamentos</a>
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/beleza.php" style="color: white">Beleza</a>
+				<a class="nav-link" id="menuitem" href="beleza.php" style="color: white">Beleza</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/infantil.php" style="color: white">Infantil</a>
+				<a class="nav-link" id="menuitem" href="infantil.php" style="color: white">Infantil</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/promocoes.php" style="color: white">Promoções</a>
+				<a class="nav-link" id="menuitem" href="promocoes.php" style="color: white">Promoções</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/cuidadosdiarios.php" style="color: white">Cuidados Diários</a>
+				<a class="nav-link" id="menuitem" href="cuidadosdiarios.php" style="color: white">Cuidados Diários</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="view/genericos.php" style="color: white">Genéricos</a>
+				<a class="nav-link" href="genericos.php" style="color: white">Genéricos</a>
 			</li>
 			
 		</ul>
@@ -105,27 +105,27 @@
 	
 		<ul class="navbar-nav" style="float: none; margin: 0 auto">
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/medicamentos.php" style="color: white">Medicamentos</a>
+				<a class="nav-link" id="menuitem" href="medicamentos.php" style="color: white">Medicamentos</a>
 			</li>
 
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/beleza.php" style="color: white">Beleza</a>
+				<a class="nav-link" id="menuitem" href="beleza.php" style="color: white">Beleza</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/infantil.php" style="color: white">Infantil</a>
+				<a class="nav-link" id="menuitem" href="infantil.php" style="color: white">Infantil</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/promocoes.php" style="color: white">Promoções</a>
+				<a class="nav-link" id="menuitem" href="promocoes.php" style="color: white">Promoções</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" id="menuitem" href="view/cuidadosdiarios.php" style="color: white">Cuidados Diários</a>
+				<a class="nav-link" id="menuitem" href="cuidadosdiarios.php" style="color: white">Cuidados Diários</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="view/genericos.php" style="color: white">Genéricos</a>
+				<a class="nav-link" href="genericos.php" style="color: white">Genéricos</a>
 			</li>
 			
 			<li class="nav-item">

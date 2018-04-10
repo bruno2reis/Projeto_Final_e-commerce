@@ -2,7 +2,7 @@
 			<br>
     <div class="row">
         <div class="col-lg-5 col-md-5 col-xs-12">
-            <img src="../img/novalgina.png" width="350" alt="Novalgina">
+            <img src="img/novalgina.png" width="350" alt="Novalgina">
         </div>
         <div class="col-lg-7 col-md-7 col-xs-12">
             <h3>Novalgina 1g 10 Comprimidos</h3>
