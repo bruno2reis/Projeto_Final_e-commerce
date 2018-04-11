@@ -25,7 +25,7 @@
 		<?php require_once "corpo_total.php"; ?>
 
 		<?php require_once "footer.php"; ?>
-				
+		
 		<!-- Carregamento de arquivos JavaScript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>      
         <script src="http://jqueryvalidation.org/files/dist/jquery.validate.js"></script> 	<!-- Inclusão do Plugin jQuery Validation-->

@@ -43,7 +43,6 @@ button {
 	color: #007bff;
 	border: none;
 	cursor: pointer;
-	width: 100%;
 	opacity: 0.9;
 }
 
@@ -63,19 +62,7 @@ button:hover {
 	padding: 16px;
 }
 
-/* O Modal (fundo) */
-.modal {
-	display: none; /* Hidden by default */
-	position: fixed; /* Stay in place */
-	z-index: 1; /* Sit on top */
-	left: 0;
-	top: 0;
-	width: 100%; /* Full width */
-	height: 100%; /* Full height */
-	overflow: auto; /* Enable scroll if needed */
-	background-color: rgba(92,92,92,0.75);
-	padding-top: 50px;
-}
+
 
 /* Modal Content/Box */
 .modal-content {
@@ -93,7 +80,7 @@ button:hover {
 	top: 15px;
 	font-size: 40px;
 	font-weight: bold;
-	color: #f1f1f1;
+	color: grey;
 }
 
 .close:hover,

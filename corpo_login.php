@@ -3,11 +3,11 @@
 		<div class="row">
 
 			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12 mb-3">
-				<a href="cadastro.php"><button type="button" class="btn btn-outline-primary">CADASTRO</button></a>
+				<a href="cadastro.php"><button type="button" class="btn btn-outline-primary" style="width: 100%">CADASTRO</button></a>
 			</div>
 	
 			<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-12">
-				<button type="button" class="btn btn-primary disabled">LOGIN</button>
+				<button type="button" class="btn btn-primary disabled" style="width: 100%">LOGIN</button>
 			</div>
 			
 

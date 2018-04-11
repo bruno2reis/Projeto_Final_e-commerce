@@ -23,7 +23,7 @@
 		<?php require_once "nav.php"; ?>
 
 		<?php require_once "corpo_genericos.php"; ?>
-
+		
 		<?php require_once "footer.php"; ?>
 				
 		<!-- Carregamento de arquivos JavaScript -->

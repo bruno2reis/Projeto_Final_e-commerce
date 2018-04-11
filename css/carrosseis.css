@@ -76,7 +76,7 @@
 
 		#crs2 .carousel-cell, #crs3 .carousel-cell, #crs4 .carousel-cell {
 			width: 255px;			/* Largura de cada célula do carrossel */
-			height: 320px;
+			height: 400px;
 			margin-right: 30px;
 			background: white;
 			border-radius: 5px;
@@ -145,4 +145,32 @@
 		visibility: visible;
 	}
 	
+	.bloco .form-control {
+		visibility: hidden;
+	}
+	
+	.bloco:hover .form-control {
+		visibility: visible;
+	}
+	
+	.bloco #qtd {
+		visibility: hidden;
+	}
+	
+	.bloco:hover #qtd{
+		visibility: visible;
+	}
+	
 }
+
+/* Altura dos blocos do carrossel em telas muito grandes 1200px + */
+@media only screen and (min-width: 1200px) {
+
+		#crs2 .carousel-cell, #crs3 .carousel-cell, #crs4 .carousel-cell {
+			height: 350px;
+		}
+
+}
+
+
+
