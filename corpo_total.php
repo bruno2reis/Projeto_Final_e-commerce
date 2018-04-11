@@ -199,9 +199,16 @@ require_once "membros.php";
 
 </div>
 
-<!-- Consertar modal para funcionar nas instâncias dos carrosseis -->
 
-<!-- Início do modal -->
+<!-- Início do modal - Repetimos a query PHP pois os modais não funcionam bem dentro da classe Flickity (carrosséis) -->
+
+<?php
+	$query = "SELECT * FROM tbl_product";
+	$product_array = $shoppingCart->getallproduct($query);	/* Definir código da categoria para trazer na query */
+	if (! empty($product_array)) {
+		foreach ($product_array as $key => $value) {
+			?>
+
 <div class="modal fade" id="myModal<?php echo $product_array[$key]["code"]; ?>" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog" role="document">
 	<div class="modal-content">
@@ -235,5 +242,11 @@ require_once "membros.php";
 	  </div>
   </div>
 </div>
-</div>								
+</div>
+
+<?php
+}
+	}
+?>
+
 <!-- Fim do modal -->
