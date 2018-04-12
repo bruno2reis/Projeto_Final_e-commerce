@@ -16,6 +16,8 @@ class DBController
     function __construct()
     {
         $this->conn = mysqli_connect($this->host, $this->user, $this->password, $this->database);
+		$sql_statement = $this->conn->prepare("SET names 'utf8'; ");
+		$sql_statement->execute();
     }
 
     public static function getConnection()
@@ -33,8 +35,10 @@ class DBController
         }
         $sql_statement->execute();
         $result = $sql_statement->get_result();
+		
         
         if ($result->num_rows > 0) {
+			
             while ($row = $result->fetch_assoc()) {
                 $resultset[] = $row;
             }
