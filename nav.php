@@ -1,3 +1,8 @@
+<?php
+	$connection = mysqli_connect('localhost','root','','farma_senac');
+?>
+
+
 <!-- Logo, barra de buscas e botão para buscar -->
 
 <div class="container">
@@ -32,15 +37,16 @@
 
 				<!-- Barra de buscas -->
 
-				
-				<div class="col-xl-12 col-lg-12 col-md-12 col-sm-11 col-11 mx-auto">
-
-					<div class="input-group">	<!-- Utilizamos input group para colocar o input e o botão na mesma linha -->
-						<input class="form-control" id="divBusca" type="text" style="margin-right: 25px">
-						<input class="btn btn-primary" id="divBusca" type="button" value="Buscar">
+				<form action="buscas.php" method="post" style="width: 100%">
+						
+					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-11 col-11 mx-auto">
+						<div class="input-group">	<!-- Utilizamos input group para colocar o input e o botão na mesma linha -->
+								<input class="form-control" id="divBusca" name="search" type="text" style="margin-right: 25px" />
+								<input class="btn btn-primary" id="divBusca" type="submit" value="Buscar" />
+						</div>
 					</div>
-					
-				</div>
+				
+				</form>
 				
 			</div>
 
