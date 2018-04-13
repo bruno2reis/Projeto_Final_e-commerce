@@ -2,73 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b199521-c1f9-437e-9c8b-c9b68aeb375c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cad_img.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cad_img_core.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/funcao.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/view/cadastro.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/view/corpo_carrinho.php" afterPath="$PROJECT_DIR$/corpo_carrinho.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/view/nav.php" afterPath="$PROJECT_DIR$/nav.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/compre3_pague2.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/compre3_pague2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/mobile_1.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/mobile_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/mobile_2.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/mobile_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/mobile_3.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/mobile_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/mobile_4.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/mobile_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/promo_cinquenta_off.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/promo_cinquenta_off.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/promo_seis.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/promo_seis.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/promo_trinta_off.jpg" afterPath="$PROJECT_DIR$/imagens/Carrocel/promo_trinta_off.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Carrocel/promocao_semana.gif" afterPath="$PROJECT_DIR$/imagens/Carrocel/promocao_semana.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/banco_do_brasil.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/banco_do_brasil.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/boleto.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/boleto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_amex.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_amex.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_bradesco.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_bradesco.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_diners.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_diners.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_elo.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_elo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_hiper.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_hiper.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_hipercard.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_hipercard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_itau.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_itau.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_master.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_master.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_visa.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cartao_visa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/cheque.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/cheque.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Formas Pagamento/money.png" afterPath="$PROJECT_DIR$/imagens/Formas Pagamento/money.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Logo/LOGO-100x65.png" afterPath="$PROJECT_DIR$/imagens/Logo/LOGO-100x65.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Logo/LOGO-300x150.png" afterPath="$PROJECT_DIR$/imagens/Logo/LOGO-300x150.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Logo/LOGO-62x62.png" afterPath="$PROJECT_DIR$/imagens/Logo/LOGO-62x62.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Advil_400.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Advil_400.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/BalsamoBengue.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/BalsamoBengue.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Cimegripe.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Cimegripe.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Dorflex_1.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Dorflex_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/EnoSaldeFruta.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/EnoSaldeFruta.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/KitAdoçante.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/KitAdoçante.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Ninho_1.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Ninho_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Ninho_2.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Ninho_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Ninho_3.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Ninho_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Perfenol_1.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Perfenol_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Rexoditos.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Rexoditos.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Salicetil_1.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Salicetil_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Suco_verde_1.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Suco_verde_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/Produtos/Suco_verde_2.jpg" afterPath="$PROJECT_DIR$/imagens/Produtos/Suco_verde_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/sociais/Facebook.png" afterPath="$PROJECT_DIR$/imagens/sociais/Facebook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/sociais/Instagram.png" afterPath="$PROJECT_DIR$/imagens/sociais/Instagram.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imagens/sociais/Twitter.png" afterPath="$PROJECT_DIR$/imagens/sociais/Twitter.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/banco.php" afterPath="$PROJECT_DIR$/banco.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cad.php" afterPath="$PROJECT_DIR$/cad.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cadastro.php" afterPath="$PROJECT_DIR$/cadastro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corpo_cadastro.php" afterPath="$PROJECT_DIR$/corpo_cadastro.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corpo_login.php" afterPath="$PROJECT_DIR$/corpo_login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DBController.php" afterPath="$PROJECT_DIR$/DBController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corpo_total.php" afterPath="$PROJECT_DIR$/corpo_total.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/functions.php" afterPath="$PROJECT_DIR$/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/init.php" afterPath="$PROJECT_DIR$/init.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/total.js" afterPath="$PROJECT_DIR$/js/total.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login_users.php" afterPath="$PROJECT_DIR$/login_users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/corpo_beleza.php" afterPath="$PROJECT_DIR$/view/corpo_beleza.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/corpo_cuidadosdiarios.php" afterPath="$PROJECT_DIR$/view/corpo_cuidadosdiarios.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/corpo_genericos.php" afterPath="$PROJECT_DIR$/view/corpo_genericos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/corpo_infantil.php" afterPath="$PROJECT_DIR$/view/corpo_infantil.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/corpo_medicamentos.php" afterPath="$PROJECT_DIR$/view/corpo_medicamentos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view/corpo_promocoes.php" afterPath="$PROJECT_DIR$/view/corpo_promocoes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nav.php" afterPath="$PROJECT_DIR$/nav.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,11 +21,12 @@
       <file leaf-file-name="cad.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cad.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding>
-                <marker date="1523064475552" expanded="true" signature="951:993" ph="SELECT * FRO... USUARIO" />
-                <marker date="1523064475552" expanded="true" signature="1363:1467" ph="INSERT INTO usuario... " />
+                <marker date="1523490881694" expanded="true" signature="951:993" ph="SELECT * FRO... USUARIO" />
+                <marker date="1523490881694" expanded="true" signature="1304:1336" ph="..." />
+                <marker date="1523490881694" expanded="true" signature="1363:1467" ph="INSERT INTO usuario... " />
               </folding>
             </state>
           </provider>
@@ -96,6 +35,85 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <marker date="1523657836415" expanded="true" signature="433:453" ph="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#0;n#nav#1;n#!!top" expanded="true" />
+                <marker date="1523655463746" expanded="false" signature="2429:2456" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="2553:2565" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="2682:2694" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="2810:2822" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="2941:2953" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="3079:3091" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="3204:3216" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="3721:3748" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="3845:3857" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="3974:3986" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="4102:4114" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="4233:4245" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="4371:4383" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="4496:4508" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="4613:4625" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="4827:4839" ph="..." />
+                <marker date="1523655463746" expanded="false" signature="4934:4946" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="corpo_total.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/corpo_total.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4040">
+              <caret line="217" column="45" lean-forward="false" selection-start-line="217" selection-start-column="45" selection-end-line="217" selection-end-column="45" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+                <element signature="e#7665#7672#1#HTML" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+                <marker date="1523655355872" expanded="true" signature="924:949" ph="SELECT * FRO... tbl_product" />
+                <marker date="1523655355872" expanded="true" signature="3029:3054" ph="SELECT * FRO... tbl_product" />
+                <marker date="1523655355872" expanded="true" signature="5138:5163" ph="SELECT * FRO... tbl_product" />
+                <marker date="1523655355872" expanded="true" signature="7072:7097" ph="SELECT * FRO... tbl_product" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="membros.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/membros.php">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -103,42 +121,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="corpo_total.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corpo_total.php">
+      <file leaf-file-name="funcoescarrinho.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcoescarrinho.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cad_img.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cad_img.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="54" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="total.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/total.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1540">
-              <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="corpo_login.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corpo_login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="99" lean-forward="false" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
-              <folding />
+            <state relative-caret-position="-1680">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1523655188166" expanded="true" signature="136:161" ph="SELECT * FRO... tbl_product" />
+                <marker date="1523655188166" expanded="true" signature="331:503" ph="SELECT tbl_p... tbl_product" />
+                <marker date="1523655188166" expanded="true" signature="837:875" ph="SELECT * FRO... tbl_product" />
+                <marker date="1523655188166" expanded="true" signature="1217:1257" ph="SELECT * FRO... tbl_product" />
+                <marker date="1523655188166" expanded="true" signature="1609:1670" ph="SELECT * FRO... tbl_cart" />
+                <marker date="1523655188166" expanded="true" signature="2134:2203" ph="INSERT INTO tbl_cart... " />
+                <marker date="1523655188166" expanded="true" signature="2730:2775" ph="UPDATE tbl_c... " />
+                <marker date="1523655188166" expanded="true" signature="3169:3202" ph="DELETE FROM " />
+                <marker date="1523655188166" expanded="true" signature="3479:3519" ph="DELETE FROM " />
+                <marker date="1523655188166" expanded="true" signature="3831:3995" ph="INSERT INTO tbl_order... " />
+                <marker date="1523655188166" expanded="true" signature="5593:5684" ph="INSERT INTO tbl_order_item... " />
+                <marker date="1523655188166" expanded="true" signature="6344:6428" ph="INSERT INTO tbl_payment... " />
+                <marker date="1523655188166" expanded="true" signature="6960:7010" ph="UPDATE tbl_o... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,33 +149,10 @@
         <entry file="file://$PROJECT_DIR$/login_users.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="17" />
               <folding>
-                <marker date="1523066409812" expanded="true" signature="195:236" ph="SELECT * FRO... USUARIO" />
-                <marker date="1523066409812" expanded="true" signature="540:597" ph="INSERT INTO usuario... " />
+                <marker date="1523490881698" expanded="true" signature="195:236" ph="SELECT * FRO... USUARIO" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cad_img_core.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cad_img_core.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-              <folding>
-                <marker date="1523311956623" expanded="true" signature="369:431" ph="INSERT INTO produto... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="corpo_cadastro.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corpo_cadastro.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="43" selection-end-column="42" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -201,6 +180,18 @@
       <find>$</find>
       <find>*$/</find>
       <find>myForm</find>
+      <find>c</find>
+      <find>ca</find>
+      <find>camera</find>
+      <find>camera.</find>
+      <find>camera.j</find>
+      <find>camera.jpg</find>
+      <find>camera.jp</find>
+      <find>p</find>
+      <find>pro</find>
+      <find>produ</find>
+      <find>produc</find>
+      <find>product</find>
     </findStrings>
     <replaceStrings>
       <replace>href=&quot;corpo_total.php&quot;</replace>
@@ -226,8 +217,6 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/cadastro.php" />
         <option value="$PROJECT_DIR$/js/new.js" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/nav.php" />
         <option value="$PROJECT_DIR$/corpo_cadastro.php" />
         <option value="$PROJECT_DIR$/funcao.php" />
         <option value="$PROJECT_DIR$/banco.php" />
@@ -238,9 +227,13 @@
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/login_users.php" />
         <option value="$PROJECT_DIR$/corpo_login.php" />
-        <option value="$PROJECT_DIR$/corpo_total.php" />
         <option value="$PROJECT_DIR$/cad_img.php" />
         <option value="$PROJECT_DIR$/cad_img_core.php" />
+        <option value="$PROJECT_DIR$/DBController.php" />
+        <option value="$PROJECT_DIR$/corpo_total.php" />
+        <option value="$PROJECT_DIR$/nav.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Sect_fotos.php" />
       </list>
     </option>
   </component>
@@ -275,6 +268,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -311,31 +305,16 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="imagens" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Projeto_Final_e-commerce" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Projeto_Final_e-commerce" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="imagens" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Carrocel" />
+              <option name="myItemId" value="produtos" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -354,6 +333,291 @@
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cart-list.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_beleza.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_buscas.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_carrinho.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_cuidadosdiarios.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_genericos.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_infantil.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_medicamentos.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_promocoes.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_total.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/cadastro.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/css/carrosseis.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/funcoescarrinho.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/nav.php</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lista_de_produtos.ods</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Analgesicos e Antitermicos/Imagens_Textos/AAS - Acetildor_Analgesicos_Antitermicos.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Analgesicos e Antitermicos/Imagens_Textos/Aceltidor_Analgesico_Antitermico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Analgesicos e Antitermicos/Imagens_Textos/Salicetil_Analgesico_Antitermico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Analgesicos e Antitermicos/Imagens_Textos/Salicetil_Analgesicos_Antitermicos.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antialergicos/Imagens_Textos/Claritin_antialergico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antialergicos/Imagens_Textos/Claritin_antialergico.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antialergicos/Imagens_Textos/Dexclorfeniramina_antialergico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antialergicos/Imagens_Textos/Dexclorfeniramina_antialergico.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamat+¦rios/Imagens_Textos/Arnica Montana_Antiinflamatorio.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamat+¦rios/Imagens_Textos/Arnica Montana_Antinflamatorio.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamat+¦rios/Imagens_Textos/Cataflam Pro_Antiinflamatorio.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamat+¦rios/Imagens_Textos/CataflamPro_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamat+¦rios/Imagens_Textos/CataflamPro_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamatórios/Imagens_Textos/Arnica Montana_Antiinflamatorio.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamatórios/Imagens_Textos/Arnica Montana_Antinflamatorio.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamatórios/Imagens_Textos/Cataflam Pro_Antiinflamatorio.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamatórios/Imagens_Textos/CataflamPro_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Antiinflamatórios/Imagens_Textos/CataflamPro_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/Fitocor 650.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/Fitocor 650.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/oleo de Peixe Votag.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicer+¡deos/Imagens_Textos/oleo ePeixeVotag.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicerídeos/Imagens_Textos/Fitocor 650.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicerídeos/Imagens_Textos/Fitocor 650.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicerídeos/Imagens_Textos/Óleo de Peixe Votag.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/1 - Medicamentos/Colesterol e Triglicerídeos/Imagens_Textos/Óleo ePeixeVotag.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Cabelo/Imagens_Textos/Ampola_de_Tratamento.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Cabelo/Imagens_Textos/Ampola_de_Tratamento_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Cabelo/Imagens_Textos/Ampola_de_Tratamento_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Cabelo/Imagens_Textos/Ativador_de_Cachos.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Cabelo/Imagens_Textos/Ativador_de_Cachos.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Corpo e Rosto/Imagens_Textos/Acnase Clean.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Corpo e Rosto/Imagens_Textos/AcnaseClean.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Corpo e Rosto/Imagens_Textos/ÁguaMicelar.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Corpo e Rosto/Imagens_Textos/ÁguaMicelar.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Maquiagem/Imagens_Textos/Base_Líquida_Maybelline.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Maquiagem/Imagens_Textos/Base_Líquida_Maybelline.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Maquiagem/Imagens_Textos/Base_Líquida_Vult.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Maquiagem/Imagens_Textos/Base_Líquida_Vult.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Pes/Imagens-Textos/Aparelho_Esfoliador.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Pes/Imagens-Textos/Aparelho_Esfoliador_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/2 - Beleza/Pes/Imagens-Textos/Aparelho_Esfoliador_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Composto Lácteo Nestlé Ninho Fases 1+ 400g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Composto Lácteo Nestlé Ninho Fases 1+ 400g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Fórmula Infantil Althéra 450g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Fórmula Infantil Althéra 450g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Fórmula Infantil NAN Comfor 1 800g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Fórmula Infantil NAN Comfor 1 800g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Leite Nestlé Neslac Supreme Lata 800g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Leite Nestlé Neslac Supreme Lata 800g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Papinha Nestlé Banana com Aveia Pote 120g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Alimentação/Papinha Nestlé Banana com Aveia Pote 120g.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Banho/Kit Shampoo + Condicionador Ricca Barbie Cachos Definidos 250ml Cada.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Banho/Kit Shampoo + Condicionador Ricca Barbie Cachos Definidos 250ml Cada.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Banho/Shampoo Johnson's Baby Proteção UV 200ml.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Banho/Shampoo Johnson's Baby Proteção UV 200ml.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/3 - Infantil/Fraldas/Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/Cicatricure.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/Cicatricure.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/doralgina.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/doralgina.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/gastrol.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/gastrol.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/hipoglos.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/hipoglos01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/hipoglos02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/imecap.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/4 - Promocoes/imecap.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos Diet/Imagens_Textos/Achocolatado.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos Diet/Imagens_Textos/Achocolatado.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos Diet/Imagens_Textos/Achocolatado_Gold.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos Diet/Imagens_Textos/Achocolatado_Gold.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos/Imagens_Textos/A-Z_Mulher.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos/Imagens_Textos/A-Z_Mulher.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos/Imagens_Textos/Detox_Farinha.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Alimentos/Imagens_Textos/Detox_Farinha.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Diagnostico/Imagens_Textos/Aparelho_de_Pressão.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Diagnostico/Imagens_Textos/Aparelho_de_Pressão_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Diagnostico/Imagens_Textos/Aparelho_de_Pressão_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Diagnostico/Imagens_Textos/Aparelho_de_Pressão_03.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Diagnostico/Imagens_Textos/OneTouch_Select.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Diagnostico/Imagens_Textos/OneTouch_Select.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Higiene ÍntimaPessoal/Imagens_Textos/Gel_Lubrificante_Easy.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Higiene ÍntimaPessoal/Imagens_Textos/Gel_Lubrificante_Easy.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Higiene ÍntimaPessoal/Imagens_Textos/Preservativo_Blowtex.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/5- Cuidados Diários/Higiene ÍntimaPessoal/Imagens_Textos/Preservativo_Blowtex.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/AAS100mg .jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/AAS100mg.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/AcebrofilinaXaropeAdulto.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/AcebrofilinaXaropeAdulto.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/BetametasonaElixircom120 ml.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/BetametasonaElixircom120 ml.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/Naratriptana2,5 mg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/PRODUTOS_Imagens_Textos/6 - Genericos/Naratriptana2,5 mg.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Produtos para Banco.xlsx</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/bulas/bula.pdf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/checkout.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_checkout.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_finalizado.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/farma.sql</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/finalizado.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/AcnaseClean.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/Ampola_de_Tratamento_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/Ampola_de_Tratamento_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/Aparelho_Esfoliador_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/Aparelho_Esfoliador_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/Ativador_de_Cachos.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/Base_Líquida_Maybelline.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/Base_Líquida_Vult.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Beleza/ÁguaMicelar.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/A-Z_Mulher.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Achocolatado.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Achocolatado_Gold.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Aparelho_de_Press+úo_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Aparelho_de_Press+úo_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Aparelho_de_Press+úo_03.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Aparelho_de_Pressão_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Aparelho_de_Pressão_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Aparelho_de_Pressão_03.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Detox_Farinha.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Gel_Lubrificante_Easy.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/OneTouch_Select.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/CuidadosDiarios/Preservativo_Blowtex.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Genericos/AAS100mg .jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Genericos/AcebrofilinaXaropeAdulto.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Genericos/BetametasonaElixircom120 ml.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Genericos/Naratriptana2,5 mg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Composto Lácteo Nestlé Ninho Fases 1+ 400g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Fórmula Infantil Althéra 450g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Fórmula Infantil NAN Comfor 1 800g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Kit Shampoo + Condicionador Ricca Barbie Cachos Definidos 250ml Cada.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Leite Nestlé Neslac Supreme Lata 800g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Papinha Nestlé Banana com Aveia Pote 120g.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Infantil/Shampoo Johnsons Baby Proteção UV 200ml.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/Aceltidor_Analgesico_Antitermico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/Arnica Montana_Antinflamatorio.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/CataflamPro_01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/CataflamPro_02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/Claritin_antialergico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/Dexclorfeniramina_antialergico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/Fitocor 650.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/Salicetil_Analgesico_Antitermico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/oleo de Peixe Votag.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Medicamentos/Óleo de Peixe Votag.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/Aceltidor_Analgesico_Antitermico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/Cicatricure.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/Salicetil_Analgesico_Antitermico.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/doralgina.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/gastrol.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/hipoglos01.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/hipoglos02.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/produtos/Promocoes/imecap.jpg</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_categoria.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/corpo_produto.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/img/novalgina.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/product/camera.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/product/external-hard-drive.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/product/watch.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/shopping_cart.sql</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -462,6 +726,7 @@
       <workItem from="1522704819121" duration="1663000" />
       <workItem from="1522876829609" duration="8809000" />
       <workItem from="1523149533239" duration="9048000" />
+      <workItem from="1523571299486" duration="2580000" />
     </task>
     <task id="LOCAL-00001" summary="'inicio do time'">
       <created>1521671802301</created>
@@ -481,18 +746,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127909000" />
+    <option name="totallyTimeSpent" value="131403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24940239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2063745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32352942" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -503,7 +768,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -529,6 +793,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -543,16 +817,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php" />
-    <entry file="file://$PROJECT_DIR$/nav.php" />
-    <entry file="file://$PROJECT_DIR$/Notas do Projeto.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corpo_total.php" />
     <entry file="file://$PROJECT_DIR$/nav.php" />
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/Notas do Projeto.txt">
@@ -643,7 +907,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
           <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,15 +914,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="135" column="42" lean-forward="false" selection-start-line="135" selection-start-column="42" selection-end-line="135" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-40">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,38 +941,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cad.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-          <folding>
-            <marker date="1523064475552" expanded="true" signature="951:993" ph="SELECT * FRO... USUARIO" />
-            <marker date="1523064475552" expanded="true" signature="1363:1467" ph="INSERT INTO usuario... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/corpo_cadastro.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
           <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="43" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corpo_total.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="26" lean-forward="false" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,17 +952,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1540">
           <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login_users.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="17" />
           <folding>
-            <marker date="1523066409812" expanded="true" signature="195:236" ph="SELECT * FRO... USUARIO" />
-            <marker date="1523066409812" expanded="true" signature="540:597" ph="INSERT INTO usuario... " />
+            <marker date="1523490881698" expanded="true" signature="195:236" ph="SELECT * FRO... USUARIO" />
           </folding>
         </state>
       </provider>
@@ -746,7 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="16" column="99" lean-forward="false" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,17 +980,144 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imagens/up9851dc537dd49b595f70805727c88cc4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/imagens/up9851dc537dd49b595f70805727c88cc4.jpg" />
     <entry file="file://$PROJECT_DIR$/cad_img_core.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1190">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoescarrinho.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1680">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1523311956623" expanded="true" signature="369:431" ph="INSERT INTO produto... " />
+            <marker date="1523655188166" expanded="true" signature="136:161" ph="SELECT * FRO... tbl_product" />
+            <marker date="1523655188166" expanded="true" signature="331:503" ph="SELECT tbl_p... tbl_product" />
+            <marker date="1523655188166" expanded="true" signature="837:875" ph="SELECT * FRO... tbl_product" />
+            <marker date="1523655188166" expanded="true" signature="1217:1257" ph="SELECT * FRO... tbl_product" />
+            <marker date="1523655188166" expanded="true" signature="1609:1670" ph="SELECT * FRO... tbl_cart" />
+            <marker date="1523655188166" expanded="true" signature="2134:2203" ph="INSERT INTO tbl_cart... " />
+            <marker date="1523655188166" expanded="true" signature="2730:2775" ph="UPDATE tbl_c... " />
+            <marker date="1523655188166" expanded="true" signature="3169:3202" ph="DELETE FROM " />
+            <marker date="1523655188166" expanded="true" signature="3479:3519" ph="DELETE FROM " />
+            <marker date="1523655188166" expanded="true" signature="3831:3995" ph="INSERT INTO tbl_order... " />
+            <marker date="1523655188166" expanded="true" signature="5593:5684" ph="INSERT INTO tbl_order_item... " />
+            <marker date="1523655188166" expanded="true" signature="6344:6428" ph="INSERT INTO tbl_payment... " />
+            <marker date="1523655188166" expanded="true" signature="6960:7010" ph="UPDATE tbl_o... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sect_fotos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <marker date="1523657836343" expanded="true" signature="130:151" ph="SELECT * FRO... produto" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <marker date="1523490881694" expanded="true" signature="951:993" ph="SELECT * FRO... USUARIO" />
+            <marker date="1523490881694" expanded="true" signature="1304:1336" ph="..." />
+            <marker date="1523490881694" expanded="true" signature="1363:1467" ph="INSERT INTO usuario... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1523657836415" expanded="true" signature="433:453" ph="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="59" lean-forward="false" selection-start-line="2" selection-start-column="59" selection-end-line="2" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#7;n#ul#0;n#div#0;n#nav#1;n#!!top" expanded="true" />
+            <marker date="1523655463746" expanded="false" signature="2429:2456" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="2553:2565" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="2682:2694" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="2810:2822" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="2941:2953" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="3079:3091" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="3204:3216" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="3721:3748" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="3845:3857" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="3974:3986" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="4102:4114" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="4233:4245" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="4371:4383" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="4496:4508" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="4613:4625" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="4827:4839" ph="..." />
+            <marker date="1523655463746" expanded="false" signature="4934:4946" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/membros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corpo_total.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4040">
+          <caret line="217" column="45" lean-forward="false" selection-start-line="217" selection-start-column="45" selection-end-line="217" selection-end-column="45" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h3#0;n#div#0;n#div#0;n#section#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#0;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#div#0;n#div#3;n#!!top" expanded="true" />
+            <element signature="e#7665#7672#1#HTML" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#h4#0;n#div#0;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
+            <marker date="1523655355872" expanded="true" signature="924:949" ph="SELECT * FRO... tbl_product" />
+            <marker date="1523655355872" expanded="true" signature="3029:3054" ph="SELECT * FRO... tbl_product" />
+            <marker date="1523655355872" expanded="true" signature="5138:5163" ph="SELECT * FRO... tbl_product" />
+            <marker date="1523655355872" expanded="true" signature="7072:7097" ph="SELECT * FRO... tbl_product" />
           </folding>
         </state>
       </provider>

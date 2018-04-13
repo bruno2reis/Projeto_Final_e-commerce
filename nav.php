@@ -1,6 +1,6 @@
 <?php
 
-	$connection = mysqli_connect('localhost','root','','farma_senac');
+	$connection = mysqli_connect('localhost','root','123456','farma_senac');
 	$sql_statement = $connection->prepare("SET names 'utf8'; ");
 	$sql_statement->execute();
 
