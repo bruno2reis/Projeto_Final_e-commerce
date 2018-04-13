@@ -29,25 +29,25 @@ require_once "membros.php";
 					</br>
 				</div>
 				  
-				<div class="col-xl-6 col-lg-4 col-md-4 col-sm-4 col-4 mt-0">
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 mt-0">
 					<label for="cidadecli">Cidade</label>
 					<input type="text" id="cidadecli" placeholder="Ex. Rio de Janeiro" name="cidadecli" required>
 					</br>
 				</div>
 
-				<div class="col-xl-6 col-lg-4 col-md-4 col-sm-4 col-4 mt-0">
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 mt-0">
 					<label for="estadocli">Estado</label>
 					<input type="text" id="estadocli" placeholder="Ex. RJ" name="estadocli" required>
 					</br>
 				</div>
 	  
-				<div class="col-xl-6 col-lg-4 col-md-4 col-sm-4 col-4 mt-0">
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 mt-0">
 					<label for="cepcli">CEP</label>
 					<input type="number" id="cepcli" placeholder="Ex. 11111-111" name="cepcli" required>
 					</br>
 				</div>
 				
-				<div class="col-xl-6 col-lg-4 col-md-4 col-sm-4 col-4 mt-0">
+				<div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 col-6 mt-0">
 					<label for="paiscli">País</label>
 					<input type="text" id="paiscli" placeholder="Ex. Brasil" name="paiscli" required>
 					</br>
