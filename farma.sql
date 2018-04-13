@@ -16,21 +16,6 @@ CREATE TABLE `tbl_product` (
   UNIQUE KEY `product_code` (`code`)
 )DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-/* Popular tabela de produtos - Informações fantasmas */
-INSERT INTO `tbl_product` (`id`, `name`, `brand`, `tarja`, `code`, `image`, `price`, `descricao`, `codcat`, `bula`) VALUES
-(1, '3D Casdmera', 'Marca 1', 'Branca', '13DcAM01', 'product/camera.jpg', 1500.00, 'Este é o produto A', 1),
-(2, 'External Hard Drive', 'Marca 2', '2Vermelha', 'USBasdd02', 'product/external-hard-drive.jpg', 800.00, 'Este é o produto B', 2),
-(3, 'Wrist Watch', 'Marca 3', 'Preta', '3wristWear03', 'product/watch.jpg', 300.00, 'Este é o produto C', 3),
-(4, '3D Camera', 'Marca 1', 'Branca', '13DcAM1', 'product/camera.jpg', 1500.00, 'Este é o produto A', 4),
-(5, 'Extesdrnal Hard Drive', 'Marca 2', '2Vermeha', 'USB102', 'product/external-hard-drive.jpg', 800.00, 'Este é o produto B', 5),
-(6, 'Wrfdist Watch', 'Marca 3', 'Preta', '3wrstWear03', 'product/watch.jpg', 300.00, 'Este é o produto C', 6),
-(7, '13D Camera', 'Marca 1', 'Branca', '13DM01', 'product/camera.jpg', 1500.00, 'Este é o produto A', 4),
-(8, '2External Hard Drive', 'Marca 2', '2Vermea', 'USB032', 'product/external-hard-drive.jpg', 800.00, 'Este é o produto B', 4),
-(9, '3Wrist Watch', 'Marca 3', 'Preta', '3wrisear03', 'product/watch.jpg', 300.00, 'Este é o produto C', 2);
- 
-
-
-
 /* Popular tabela de produtos - Inserções oficiais */
 
 INSERT INTO `tbl_product` (`id`, `name`, `brand`, `tarja`, `code`, `image`, `price`, `descricao`, `codcat`, `bula`) VALUES

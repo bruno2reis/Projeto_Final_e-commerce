@@ -3,8 +3,6 @@ require_once "funcoescarrinho.php";
 require_once "membros.php";
 ?>
 
-
-	
 <?php
 $cartItem = $shoppingCart->getMemberCartItem($member_id);
 $item_quantity = 0;
@@ -36,7 +34,7 @@ if (! empty($cartItem)) {
 					if (! empty($cartItem)) {
 						?>
 						
-						<a href="process-checkout.php"><button type="button" class="btn btn-primary" name="check_out" id="botaocarrinho">FINALIZAR</button></a>
+						<a href="checkout.php"><button type="button" class="btn btn-primary" name="check_out" id="botaocarrinho">FINALIZAR</button></a>
 						
 						<?php
 					} // End if !empty $cartItem
@@ -127,7 +125,7 @@ if (! empty($cartItem)) {
 					<?php
 						if (! empty($cartItem)) {
 							?>
-							<a href="process-checkout.php"><button type="button" class="btn btn-primary" name="check_out" id="botaocarrinho">FINALIZAR</button></a>
+							<a href="checkout.php"><button type="button" class="btn btn-primary" name="check_out" id="botaocarrinho">FINALIZAR</button></a>
 							
 							<?php
 						} // End if !empty $cartItem
