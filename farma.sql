@@ -357,7 +357,159 @@ Cada frasco de PAPINHAS NESTLÉ recebe injeção de vapor e o ar é retirado.
 A seleção rigorosa de ingredientes garante a ausência de substâncias prejudiciais à saúde do seu filho.', 3, 'bulas/bula.pdf'),
 (22,'Kit Shampoo + Condicionador Ricca Barbie Cachos Definidos 250ml Cada', 'RICCA', 'n/d', '3006', 'img/produtos/Infantil/Kit Shampoo + Condicionador Ricca Barbie Cachos Definidos 250ml Cada.jpg', 18.99, 'Barbie é uma referência de estilo, diversão há décadas! Quem não se encantou com suas roupas, estilo e seus cabelos, quer fossem lisos ou ondulados, curtos ou longos? Pensando nisso, RICCA apresenta sua nova linha de shampoos, condicionadores e cremes para pentear Ricca Barbie nas versões suave, cachos definidos, camomila e brilho e proteção. Os produtos não contêm sal, não possuem parabenos e foram dermatologicamente testados.', 3, 'bulas/bula.pdf'),
 (23,'Shampoo Johnsons Baby Proteção UV 200ml', 'JOHNSONS', 'n/d', '3007', 'img/produtos/Infantil/Shampoo Johnsons Baby Proteção UV 200ml.jpg', 9.99, 'O Shampoo JOHNSONS® Baby Proteção UV 200ml contém melanina natural, que ajuda a proteger a cor do cabelo do seu filho dos danos do sol. Suave para o couro cabeludo, deixando o cabelo mais bonito. Desenvolvido por especialistas em cabelo infantil, limpa de forma eficaz e segura, sem ressecar e sem deixar resíduos. Fórmula CHEGA DE LÁGRIMAS®, que não arde os olhos. Sem adição de ftalatos e conservantes doadores de formaldeído. Com pH balanceado. Com água purificada. Dermatologicamente testado. Hipoalergênico*. *Este produto foi formuldo de maneira a minimizar possível surgimento de alergia.', 3, 'bulas/bula.pdf'),
-(24,'Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades', 'P&G', 'n/d', '3008', 'img/produtos/Infantil/Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades.jpg', 54.90, 'Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades', 3, 'bulas/bula.pdf');
+(24,'Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades', 'P&G', 'n/d', '3008', 'img/produtos/Infantil/Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades.jpg', 54.90, 'Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades', 3, 'bulas/bula.pdf'),
+(25,'Doralgina 4 Drágeas', 'Neo-Química', 'n/d', '4001', 'img/produtos/Promocoes/doralgina.jpg', 1.57, 'Informações do Produto
+
+Indicações: Doralgina é um medicamento com atividade analgésica (diminui a dor) e antiespasmódica (diminui contração involuntária) indicado para o tratamento de diversos tipos de dor de cabeça, incluindo enxaquecas ou para o tratamento de cólicas. Uso oral. Uso adulto.
+Modo de usar: Doralgina é de uso exclusivo pela via oral (por boca). A posologia recomendada é de 1 a 2 drágeas (em dose única) a cada 6 horas ou 4 vezes ao dia. Não tome mais de 8 drágeas ao dia (4 x 2 drágeas). Este medicamento não deve ser partido ou mastigado. Siga corretamente o modo de usar. Em caso de dúvidas sobre este medicamento, procure orientação do farmacêutico. Não desaparecendo os sintomas, procure orientação de seu médico ou cirurgião-dentista.
+Contraindicações: Alergia ou intolerância à qualquer componente da fórmula. Você também não deve tomar Doralgina nas crises de hipertensão arterial (pressão alta), na presença de alteração nas qualidades do sangue ou na proporção de seus elementos constituintes ou de determinadas doenças metabólicas, como porfiria ou a deficiência congênita da glicose-6-fosfato-desidrogenase. Você só deve usar Doralgina em doses mais altas e por período prolongado se o médico recomendar. Este medicamento é contraindicado para menores de 12 anos de idade.
+Reações adversas: Pode ocorrer reações alérgicas na pele, queda da pressão sanguínea, alterações das células do sangue, aumento de batimentos do coração e irritabilidade; além de náusea, vermelhidão, suor, coceira ou urticária.
+Precauções: Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica ou do cirurgião-dentista. Você não deve tomar Doralgina se estiver amamentando. Se necessário, a amamentação deve ser interrompida. Se você tiver problemas nos rins ou no fígado não deve usar o medicamento em doses altas ou por muito tempo. Não use junto com bebidas alcoólicas, nem com medicamentos que contenham clorpromazina (usada no tratamento de doenças psiquiátricas) ou ciclosporina (usada em pacientes transplantados). Atenção diabéticos: este medicamento contém açúcar.', 4, 'bulas/bula.pdf'),
+(26,'Gastrol 20 Pastilhas', 'Luper', 'n/d', '4002', 'img/produtos/Promocoes/gastrol.jpg', 10.64, 'Informações do Produto
+
+Indicações: Gastrol Pastilhas está indicado como antiácido, no tratamento sintomático da hiperacidez gástrica e suas complicações e também na úlcera péptica. Uso oral. Uso adulto.
+Modo de usar: Recomenda-se a utilização de 1 a 2 pastilhas ao dia ou à critério médico. A dose máxima diária recomendada de 10 pastilhas não deve ser ultrapassada. Para esta dose, o período máximo de uso recomendado deste medicamento é de 2 semanas.
+Contraindicações: Contraindicado em pacientes que apresentem hipersensibilidade à qualquer um dos componentes da fórmula. Este medicamento é contraindicado nos estados edematosos (inchaço e retenção líquida), nas nefrites (inflamação nos rins), na alcalose (alteração nos fluidos corporais), na albuminúria (perda de proteínas pela urina) e nas anemias. A terapia com carbonato de cálcio é contraindicada em pacientes com hipercalcemia preexistente, hipercalciúria em pacientes com dieta pobre em fósforo, inclusive por hiperparatireoidismo (doença caracterizada pelo excesso de funcionamento das glândulas paratireoides, causando aumento do hormônio da paratireoide (PTH) e levando a sinais e sintomas decorrentes do aumento de cálcio no sangue (hipercalcemia), na urina (hipercalciúria) e da retirada de cálcio dos ossos (osteoporose e cistos ósseos)), em neoplasias ou sarcoidose (doença de causa desconhecida com diversos sintomas na pele e outros órgãos), em pacientes com doença renal ou desidratação, pelo risco de desenvolverem calcinose (acúmulo de cálcio em qualquer tecido mole). O hidróxido de alumínio e hidróxido de magnésio são contraindicados em pacientes com doença renal, incluindo insuficiência renal e insuficiência renal grave. Deve ser usado com cautela em pacientes com insuficiência renal leve a moderada, devido ao aumento do risco de hipermagnesemia e em pacientes idosos. O hidróxido de alumínio/hidróxido de magnésio não são recomendados para pacientes com colite ulcerativa, que pode ser agravada pelo efeito laxante do magnésio contido nos antiácidos. Hidróxido de alumínio/hidróxido de magnésio não são recomendados para pacientes que serão ou foram submetidos à colostomia, ileostomia, ou que apresentam diverticulite, uma vez que aumentam o risco de desenvolver um desequilíbrio eletrolítico. Este medicamento é contraindicado para uso por pacientes com insuficiência renal.
+Reações adversas: Retenção de líquidos ou diurese e desidratação, retenção de sódio, hipersecreção gástrica, rebote ácido (reincidência do incômodo), flatulência, distensão gástrica, soluços, refluxo gastroesofágico, dor abdominal, náuseas, vômitos, obstipação, obstrução do trato gastrointestinal ou diarreia, agravamento de hemorróidas ou fissuras anais (em pacientes com histórico de constipação), compactação fecal, eructação, hipercalcemia, cálculo renal e/ou alcalose metabólica em pacientes pré- dispostos, hipofosfatemia, fraqueza da musculatura e desenvolvimento de hipermagnesemia.
+Precauções: O hidróxido de magnésio, assim como outros sais de magnésio na presença de insuficiência renal, pode causar depressão do sistema nervoso central. O hidróxido de alumínio, na vigência de dietas hipofosforadas, pode provocar uma deficiência de fósforo. Este medicamento pode ser usado durante a gravidez, desde que sob prescrição médica. Informe seu médico a ocorrência de gravidez na vigência do tratamento ou após seu término. Informar ao médico se está amamentando. Durante o tratamento, recomenda-se evitar a ingestão de bebidas alcoólicas. O uso deste medicamento contendo carbonato de cálcio, hidróxido de alumínio e hidróxido de magnésio deve ser cuidadoso em pacientes com obstipação preexistente ou com histórico de impactação fecal, hemorroidas, obstrução gastrintestinal ou diminuição da motilidade gástrica; é possível que essas condições sejam agravadas, e esses pacientes possam desenvolver sepse, peritonite ou isquemia intestinal. Antiácidos contendo hidróxido de alumínio e hidróxido de magnésio, devem ser utilizados cuidadosamente em pacientes idosos e com dano renal leve a moderado (devido ao risco elevado de desenvolver hipermagnesemia e uma consequente toxicidade por magnésio), além de pacientes em dietas com restrição de sódio, pacientes com insuficiência cardíaca, edema ou doença hepática grave. Este medicamento deve ser usado com cautela em pacientes com diarreia crônica, pois a diarreia pode ser agravada pelo efeito laxante do magnésio, podendo aumentar o risco de hipofosfatemia, desenvolvimento este associado com o componente alumínio. Não foram realizados estudos em animais nem em mulheres grávidas sobre o uso deste medicamento. A prescrição deste medicamento depende da avaliação do risco/benefício para a paciente. Este', 4, 'bulas/bula.pdf'),
+(27,'Creme Preventivo de Assaduras Hipoglós Amêndoas 80g', 'Johnson&johnson', 'n/d', '4003', 'img/produtos/Promocoes/hipoglos01.jpg', 27.35, 'Informações do Produto
+
+Hipoglós Amêndoas Creme Cosmético Protetor Infantil oferece ultra proteção que você vê e o seu bebê sente. A tradição que você conhece com a inovação em que você pode confiar. Possui fórmula com Vitaminas A e E que ajudam a deixar a pele do seu bebê sempre hidratada e bem nutrida. É fácil de aplicar, espalhar e remover!
+
+Indicado para proteger a pele do seu bebê contra as assaduras.
+
+Beneficios:
+
+- Previne contra as assaduras;
+- Protege a pele irritada com suavidade;
+- Hidrata e nutre;
+- Possui rápida absorção.
+
+Modo de usar:
+
+1) Utilize Hipoglós Amêndoas a cada troca de fraldas;
+2) Antes de trocar a fralda, lave bem as mãos e limpe cuidadosamente a pele do bebê;
+3) Aplique Hipoglós Amêndoas massageando suavemente para espalhar o creme, cobrindo toda a área coberta pela fralda, para evitar o contato de urina e fezes com a pele;
+4) Lave as mãos imediatamente após a aplicação.
+
+Contraindicações: Apenas em casos de hipersensibilidade (alergia) aos componentes da fórmula.', 4, 'bulas/bula.pdf'),
+(28,'Gel Hidratante E Umectante Cicatricure para Cicatrizes 30g', 'Genomma', 'n/d', '4004', 'img/produtos/Promocoes/Cicatricure.jpg', 24.84, 'Informações do Produto
+
+O Gel Hidratante e Umectante Cicatricure foi especificamente desenvolvido para melhorar a pele com cicatrizes e estrias. Sua tecnologia inovadora hidrata e ajuda a melhorar a textura, coloração e tamanho de cicatrizes e estrias  graças ao exclusivo composto Regenext, que repara e hidrata a pele, uniformizando a cor e a textura da cicatriz ou estria em relação ao resto da pele.
+
+Benefícios:
+
+- Hidrata e melhora a pele com cicatrizes e estrias;
+- Atenua cicatrizes causadas por queimaduras ou acnes;
+- Possui fórmula umectante.
+
+Modo de usar:
+
+1) Aplique generosamente na pele 3 vezes ao dia, por um período de 3 a 6 meses;
+2) A aplicação sobre cicatrizes recentes deve ser feita somente sob recomendação médica;
+3) Além de cicatrizes, o uso contínuo de Cicatricure Gel também reduz estrias.
+
+Precauções: Produto de uso cosmético. Não use o produto se a pele estiver irritada e lesionada. Em caso de irritação, vermelhidão ou prurido, suspenda o uso e procure orientação médica. O produto não oferece proteção solar; caso opte pelo uso de protetor solar, aplique-o 10 minutos após a aplicação de Cicatricure Gel. Mantenha fora do alcance das crianças. Produto não indicado para uso em menores de 12 anos de idade. Este produto não foi testado em gestantes e lactantes, consulte seu médico antes de utilizá-lo.
+
+Composição: Extrato de cebola (Allium cepa L), Extrato de camomila (Chamomilla recutita), Extrato de tomilho (Thymus vulgaris), Extrato de conchas marinhas (Ostrea shell), Extrato da folha de nogueira (Juglans regia leaf), Extrato babosa (Aloe barbadensis), Extrato de Centela (Centella asiatica),Óleo de bergamota (Citrus aurantium bergamia).', 4, 'bulas/bula.pdf'),
+(29,'Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades', 'P&G', 'n/d', '4005', 'img/produtos/Promocoes/Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades.jpg', 11.99, 'Fralda Pampers Pants Confort Sec Tamanho M 40 Unidades', 4, 'bulas/bula.pdf'),
+(30,'AAS - Acetildor 100mg Infantil 200 Comprimidos', 'Sobral', 'n/d', '4006', 'img/produtos/Promocoes/Aceltidor_Analgesico_Antitermico.jpg', 11.90, 'Informações do Produto
+
+Indicações: Para o alívio sintomático de dores de intensidade leve a moderada, como dor de cabeça, dor de dente, dor de garganta, dor menstrual, dor muscular, dor nas articulações, dor nas costas, dor da artrite; alívio sintomático da dor e da febre nos resfriados ou gripes.
+
+Contraindicações: Hipersensibilidade (alergia) ao ácido acetilsalicílico ou a qualquer outro componente do medicamento. Histórico de crise de asma induzida pela administração de salicilatos ou outras substâncias de ação semelhante, especialmente antiinflamatórios não esteroidais; úlceras do estômago ou do intestino (úlceras gastrintestinais agudas); tendência para sangramentos (diátese hemorrágica); alteração grave da função dos rins (insuficiência renal grave); alteração grave da função do fígado (insuficiência hepática grave); alteração grave da função do coração (insuficiência cardíaca grave); tratamento com metotrexato em doses iguais ou superiores a 15 mg por semana; último trimestre de gravidez. Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica.', 4, 'bulas/bula.pdf'),
+(31,'Imecap Hair com 60 Cápsulas', 'Divcom', 'n/d', '4007', 'img/produtos/Promocoes/imecap.jpg', 70.87, 'Informações do Produto
+
+Imecap Hair é um suplemento à base de vitaminas e bio-nutrientes ativos, além de biotina que tem relação com a produção de queratina, proteína que compõe o cabelo. Imecap Hair promove a suplementação do organismo devido aos minerais: selênio, cromo, zinco, piridoxina (vitamina B6) e biotina presentes em sua composição.
+Contraindicações: Hipersensibilidade (alergia) aos componentes da formulação.
+Precauções: Gestantes, nutrizes e crianças de até 3 (três) anos de idade, somente devem consumir este produto sob orientação de médico ou nutricionista. Consumir este produto conforme a recomendação de ingestão diária constante na embalagem. Mantenha o produto fora do alcance das crianças.', 4, 'bulas/bula.pdf'),
+(32,'AAS - Salicetil 100 mg Infantil com 200 Comprimidos', 'Brasterápica', 'n/d', '4008', 'img/produtos/Promocoes/Salicetil_Analgesico_Antitermico.jpg', 9.09, 'Informações do Produto
+
+Indicações: Para o alívio sintomático de dores de intensidade leve a moderada, como dor de cabeça, dor de dente, dor de garganta, dor menstrual, dor muscular, dor nas articulações, dor nas costas, dor da artrite; alívio sintomático da dor e da febre nos resfriados ou gripes.
+
+Contraindicações: Hipersensibilidade (alergia) ao ácido acetilsalicílico ou a qualquer outro componente do medicamento. Histórico de crise de asma induzida pela administração de salicilatos ou outras substâncias de ação semelhante, especialmente antiinflamatórios não esteroidais; úlceras do estômago ou do intestino (úlceras gastrintestinais agudas); tendência para sangramentos (diátese hemorrágica); alteração grave da função dos rins (insuficiência renal grave); alteração grave da função do fígado (insuficiência hepática grave); alteração grave da função do coração (insuficiência cardíaca grave); tratamento com metotrexato em doses iguais ou superiores a 15 mg por semana; último trimestre de gravidez. Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica.', 4, 'bulas/bula.pdf'),
+(33,'A-Z Mulher - Sidney Oliveira 30 Comprimidos', 'Sidney Oliveira', 'n/d', '5001', 'img/produtos/CuidadosDiarios/A-Z_Mulher.jpg', 19.90, 'Informações do Produto
+
+A-Z Mulher é um suplemento vitamínico-mineral em comprimidos desenvolvido especialmente para o público feminino. Possui fórmula balanceada com 100% da Ingestão Diária Recomendada (IDR) de Vitaminas A, B, C e D, além de ser fonte de minerais indispensáveis para a saúde da mulher. Sem adição de açúcares e zero calorias.
+
+Sugestão de uso: Ingerir 1 (um) comprimido ao dia.
+
+Informação nutricional: Porção de 0,630 g (1 comprimido revestido): Carboidratos 0,0 g (0% VD*), dos quais: Açúcares 0,0 g (0% VD*); Vitamina C 45 mg (100% VD*); Ferro 10 mg (71% VD*); Vitamina B3 13 mg (81% VD*); Zinco 2,0 mg (29% VD*); Manganês 2,3 mg (100% VD*); Vitamina B5 5,0 mg (100% VD*); Vitamina A 600 mcg (100% VD*); Vitamina B2 1,3 mg (100% VD*); Vitamina B1 1,1 mg (92% VD*); Vitamina B6 0,5 mg (39% VD*); Vitamina D 5,0 mcg (100% VD*); Vitamina B12 2,4 mcg (100% VD*); Vitamina B9 (ácido fólico) 240 mcg (100% VD*). Não contém quantidade significativa de Valor Energético, Proteínas, Gorduras Totais, Gorduras Saturadas, Gorduras Trans, Fibra Alimentar e Sódio. (*) % Valores diários com base em uma dieta de 2000 kcal ou 8400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.
+
+Composição: Ácido ascórbico, sulfato ferroso, nicotinamida, sulfato de zinco, sulfato de manganês, d-pantotenato de cálcio, acetato de vitamina A, cloridrato de tiamina, riboflavina, cloridrato de piridoxina, ácido fólico, colecalciferol, cianocobalamina, antiumectante dióxido de silício, estabilizantes celulose microcristalina e croscarmelose sódica, revestimento (agente de corpo etilcelulose, estabilizante hidroxipropilmetilcelulose, umectante triacetina, corante inorgânico dióxido de titânio e corantes artificiais vermelho 40 e eritrosina e corante natural carmim). NÃO CONTÉM GLÚTEN.
+
+Contraindicações: Hipersensibilidade (alergia) à qualquer um dos componentes da fórmula.
+
+Precauções: Consumir este produto conforme a recomendação de ingestão diária constante na embalagem. Gestantes, nutrizes (mães que amamentam) e crianças de até 3 (três) anos, somente devem consumir este produto sob orientação de nutricionista ou médico.', 5, 'bulas/bula.pdf'),
+(34,'Detox Farinha Naturei com 250 Gramas', 'Naturei', 'n/d', '5002', 'img/produtos/CuidadosDiarios/Detox_Farinha.jpg', 21.78, 'Informações do Produto
+
+Farinha Detox.
+
+Sugestão de uso: Uma colher de sopa (10g) diluir em 200 ml de suco ou iogurte light, 2 vezes ao dia.
+
+Composição: Farinha, couve, farinha de espinafre, farinha de limão, farinha de berinjela, farinha de maçã, farinha de laranja, farinha de maracujá e gengibre em pó. NÃO CONTÉM GLÚTEN.
+
+Contraindicações: Hipersensibilidade (alergia) à qualquer um dos componentes da fórmula.
+
+Precauções: Consumir este produto conforme a recomendação de ingestão diária constante na embalagem. Gestantes, nutrizes (mães que amamentam) e crianças de até 3 (três) anos, somente devem consumir este produto sob orientação de nutricionista ou médico.', 5, 'bulas/bula.pdf'),
+(35,'Achocolatado em Pó Diet Stevita com 220 Gramas', 'Stevia Farma', 'n/d', '5003', 'img/produtos/CuidadosDiarios/Achocolatado.jpg', 26.29, 'Informações do Produto
+
+O Achocolatado Stevita  é adoçado com Stevia. Foi elaborado com cacau brasileiro, além de ser rico em vitaminas e minerais, oferece energia na medida certa para quem leva uma vida ativa. Você terá a experiência de provar o sabor do mais puro chocolate sem perder o prazer da doçura. Com o Achocolatado Stevita poderá saborear seu leite com um gostinho especial, usufruindo de um produto adoçado naturalmente. Sem glúten, sem adição de açúcar, com colágeno, reduzido em calorias. Peso líquido de 220 gramas.', 5, 'bulas/bula.pdf'),
+(36,'Achocolatado Gold com 210 Gramas
+', 'Gold Nutrition', 'n/d', '5004', 'img/produtos/CuidadosDiarios/Achocolatado_Gold.jpg', 14.96, 'Informações do Produto
+
+O Achocolatado Gold Diet possui o irresistível sabor do chocolate sem adição de açúcares. Possui 53% menos calorias quando preparado com leite desnatado. Possui grande quantidade de cacau em sua formulação.', 5, 'bulas/bula.pdf'),
+(37,'Aparelho de Pressão Digital de Braço Omron - Modelo Hem 7113', 'Omron', 'n/d', '5005', 'img/produtos/CuidadosDiarios/Aparelho_de_Pressão_01.jpg', 148.05, 'Informações do Produto
+
+Esse monitor avançado realiza leituras da pressão sistólica, diastólica e de pulso.Possui memória para 30 leituras, detecta arritmia cardíaca e possui indicador de hipertensão. A tecnologia Intellisense permite o controle da inflação ao nível ideal, proporcionando uma medição mais confortável e precisa.
+
+Benefícios:
+
+Possui 30 memórias: Armazena o resultado das últimas 30 medições, permitindo ao usuário acompanhar e monitorar as mudanças da sua pressão arterial.
+
+Detecta arritmia cardíaca: Detecta batimentos cardíacos irregulares.
+
+Possui indicador de hipertensão: O monitor alerta quando a pressão arterial ultrapassa os padrões estabelecidos pelas organizações internacionais de cardiologia.
+', 5, 'bulas/bula.pdf'),
+(38,'Aparelho de Glicemia One Touch Select Plus Flex + 10 Tiras + 10 Lancetas + Lancetador + Bolsa para Carregar', ' Johnson&johnson', 'n/d', '5006', 'img/produtos/CuidadosDiarios/OneTouch_Select.jpg', 45.08, 'Informações do Produto
+
+O Kit One Touch Select Plus Flex inclui: Medidor One Touch Select Plus Flex (baterias inclusas) + 10 Tiras reagentes One Touch Select Plus Flex + Estojo + Dispositivo de punção + One Touch Delica + 10 Lancetas One Touch Delica + Manual do usuário + Guia inicial.', 5, 'bulas/bula.pdf'),
+(39,'Gel Lubrificante Easy Lub Ice Menta com 40 Gramas
+
+', 'Teuto', 'n/d', '5007', 'img/produtos/CuidadosDiarios/Gel_Lubrificante_Easy.jpg', 5.89, '
+Informações do Produto
+
+
+
+Easy Lub serve para lubrificar as áreas íntimas de mulheres de todas as idades com falta de lubrificação vaginal (secura vaginal) e casais que buscam uma melhora do seu relacionamento íntimo e uma nova dimensão do prazer. Easy Lub proporciona mais conforto, reduzindo o atrito durante o ato sexual, sem causar a perda da sensibilidade. Easy Lub age lubrificando as áreas íntimas, imitando a lubrificação íntima natural. O efeito refrescante de Easy Lub Ice Menta é conferido pelo Mentol, que potencializa as respostas dos nervos sensoriais ao frio, aumentando sua sensibilidade a temperaturas menos frias. Se liga a mesma proteína na superfície dos nervos que funciona como indicador de frio. Ou seja: Mentol e frio passam a ser sinônimos para os nervos que contêm essa proteína em sua superfície.
+
+Modo de uso: Easy Lub é de uso tópico. Aplique uma quantidade desejada de Easy Lub Ice Menta sobre a área ou superfície a ser lubrificada ou diretamente no preservativo. Pode ser usado com ou sem preservativo, assegurando maior conforto nas relações sexuais.
+
+Recomendações:  Dar uma chance às novidades pode fazer muito bem à rotina do relacionamento e você ainda pode descobrir outras formas de sentir prazer. Aproveite e inclua Easy Lub e descubra como o toque pode ser excitante. É recomendado que as mulheres consultem com um ginecologista regularmente. Mantenha fora do alcance das crianças. Se ocorrer irritação ou desconforto, descontinue o uso e consulte um médico. Conservar o produto em lugar fresco e seco.', 5, 'bulas/bula.pdf'),
+(40,'Preservativo Blowtex Skyn Texturizado com 3 Unidades', 'Blowtex', 'n/d', '5008', 'img/produtos/CuidadosDiarios/Preservativo_Blowtex.jpg', 7.15, '
+Informações do Produto
+
+
+
+O Preservativo Blowtex Skyn Texturizado possui textura quase que imperceptível, proporcionando aquela sensação de não estar usando nada, sem interferir na segurança e eficiência. É texturizada com bolinhas, que estimulam o contato durante o ato sexual e com textura estriada, suaves ranhuras que aumentam a sensação de prazer.', 5, 'bulas/bula.pdf'),
+(41,'AAS 100mg 100 Comprimidos - Ems – Genérico', 'Ems Genérico', 'n/d', '6001', 'img/produtos/Genericos/AAS100mg .jpg', 20.77, 'Informações do Produto
+
+Indicações: Para o alívio sintomático de dores de intensidade leve a moderada, como dor de cabeça, dor de dente, dor de garganta, dor menstrual, dor muscular, dor nas articulações, dor nas costas, dor da artrite; alívio sintomático da dor e da febre nos resfriados ou gripes. Uso oral. Uso pediátrico. Sabor morango.
+Contraindicações: Hipersensibilidade (alergia) ao ácido acetilsalicílico ou a qualquer outro componente do medicamento. Histórico de crise de asma induzida pela administração de salicilatos ou outras substâncias de ação semelhante, especialmente antiinflamatórios não esteroidais; úlceras do estômago ou do intestino (úlceras gastrintestinais agudas); tendência para sangramentos (diátese hemorrágica); alteração grave da função dos rins (insuficiência renal grave); alteração grave da função do fígado (insuficiência hepática grave); alteração grave da função do coração (insuficiência cardíaca grave); tratamento com metotrexato em doses iguais ou superiores a 15 mg por semana; último trimestre de gravidez. Este medicamento não deve ser utilizado por mulheres grávidas sem orientação médica.
+Reações adversas: Distúrbios do trato gastrointestinal como má digestão (dispepsia), dor gastrointestinal e abdominal, raramente inflamação gastrointestinal, úlcera gastrointestinal, podendo levar, mas muito raramente, a úlcera gastrointestinal com hemorragia e perfuração. Aumento do risco de sangramento. Reações alérgicas (hipersensibilidade) como asma, reações leves a moderadas que potencialmente afetam a pele, o trato respiratório, o trato gastrointestinal e o sistema cardiovascular, com sintomas tais como erupções na pele (rash cutâneo), urticária, inchaço (edema), coceira (prurido), rinite, congestão nasal, alterações cardiorrespiratórias e, muito raramente, reações graves, como choque anafilático.
+Precauções: Deve ser utilizado com cautela nos seguintes casos: pacientes que tenham tido úlceras gástricas ou duodenais e histórico de sangramento gastrointestinal; em tratamento concomitante com medicamentos anticoagulantes; pacientes com funcionamento prejudicado do fígado ou dos rins, ou circulação prejudicada, como insuficiência grave do coração ou sangramentos maiores; pacientes com asma preexistente, febre do feno, pólipos nasais, doença respiratória crônica ou reações alérgicas a outras substâncias; pacientes submetidos a procedimentos cirúrgicos (inclusive cirurgias de pequeno porte, como extrações dentárias), pois o ácido acetilsalicílico pode levar a um aumento da tendência a sangramentos durante e após a cirurgia; pacientes com predisposição a gota; em certas doenças virais, especialmente catapora e gripes, a administração de ácido acetilsalicílico a crianças não deve ser realizada sem a prévia consulta de um médico; caso você esteja grávida ou amamentando, ou pensando em engravidar, solicite orientação médica antes de usar este medicamento; durante o primeiro e segundo trimestre de gravidez, o ácido acetilsalicílico não deve ser administrado a menos que o médico informe que seu uso é claramente necessário; caso o ácido acetilsalicílico seja administrado a uma mulher que esteja tentando engravidar ou esteja grávida há menos de 6 meses, a dose e a duração do tratamento devem ser as menores possíveis; caso esteja amamentando ou planejando amamentar, você deverá consultar um médico antes de usar este medicamento; não há necessidade de recomendações especiais para o uso do medicamento em idosos, crianças maiores de 12 anos de idade ou grupos de risco, desde que observadas as precauções e contraindicações; ou ainda quando seja prescrito por um médico.', 6, 'bulas/bula.pdf'),
+(42,'Acebrofilina Xarope Adulto com 120 ml - Biosintética – Genérico', 'Biosintética Genérico', 'n/d', '6002', 'img/produtos/Genericos/AcebrofilinaXaropeAdulto.jpg', 15.89, 'Informações do Produto
+
+Indicações: Tratamento da obstrução dos brônquios, controle e regulação do muco (catarro) das vias respiratórias e a expectoração do muco das vias respiratórias (eliminação do catarro).
+Contraindicações: Hipersensibilidade aos componentes da formulação e para uso por portadores de doenças hepáticas e renais graves. Este medicamento é contraindicado para menores de 2 anos de idade.
+Reações adversas: Alergia com prurido eritematoso (pele vermelha e com coceira) e erupções vesiculares (aparecimentos de pequenas bolhas) na região do nariz, lábios superiores e bochechas além de dor e contração involuntária de músculos da região da faringe, dermatite de contato, assaduras, coceira, prisão de ventre, diarreia, salivação excessiva, boca seca, náusea (enjoo) e vômitos.
+Precauções: Este medicamento não deve ser utilizado por mulheres grávidas, nutrizes e crianças sem orientação médica ou do cirurgião dentista.', 6, 'bulas/bula.pdf'),
+(43,'Betametasona Elixir com 120 ml - Ems – Genérico', 'Ems Genérico', 'n/d', '6003', 'img/produtos/Genericos/BetametasonaElixircom120 ml.jpg', 8.96, 'Betametasona Elixir é também indicado em situações onde se exige efeito corticosteróide rápido e intenso, sendo medicação adjuvante e não substitutiva à convencional. Distúrbios endócrinos: Insuficiência supra-renal primária ou secundária (associada a mineralocorticóides, se necessário), tireoidites não-supurativas e hipercalcemia associada ao câncer e hiperplasia adrenal congênita. Distúrbios osteomusculares: Como auxiliar no tratamento em curto prazo (em período de agudização ou exacerbação) da artrite psoríaca; artrite reumatóide (alguns casos podem necessitar de tratamento com dose de manutenção reduzida); espondilite anquilosante; bursite aguda e subaguda; tenossinovite inespecífica aguda; artrite gotosa; febre reumática aguda e osteoartrite. Há também outras indicações disponíveis na bula.', 6, 'bulas/bula.pdf'),
+(44,'Naratriptana 2,5 mg com 4 Comprimidos - Legrand – Genérico', 'Legrand Genérico', 'n/d', '6004', 'img/produtos/Genericos/Naratriptana2,5 mg.jpg', 9.17, 'Informações do Produto
+
+Indicações: O cloridrato de naratriptana é indicado para o tratamento de crises de enxaqueca, com ou sem aura (distúrbios visuais). Uso oral.
+Contraindicações: O cloridrato de naratriptana é contraindicado em indivíduos com conhecida hipersensibilidade à naratriptana ou à qualquer dos demais componentes da fórmula. Não deve ser usado por pacientes com antecedentes de infarto agudo do miocárdio ou cardiopatia isquêmica, angina de Prinzmetal ou vasoespasmo coronariano, ou por pacientes com sintomas severos de doença vascular periférica. Não deve ser administrado a pacientes com histórico de acidente vascular cerebral ou ataque isquêmico transitório. Contraindicado em pacientes com hipertensão grave não controlada e em pacientes com insuficiência hepática ou renal severa. Este medicamento não está indicado na profilaxia da enxaqueca, e sim como abortivo das crises agudas.
+Reações adversas: Dor, sensação de formigamento e calor, sensação de peso, pressão ou tensão no peito, náuseas e vômitos após o uso da medicação.', 6, 'bulas/bula.pdf');
 
 
 
