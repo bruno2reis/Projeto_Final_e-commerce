@@ -215,7 +215,7 @@ require_once "membros.php";
 	
 	  <div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-		<h4 class="modal-title" id="myModalLabel"><span style="color: rgb(38,95,167)"><?php echo $product_array[$key]["name"]; ?></span></h4>
+		<h5 class="modal-title" id="myModalLabel"><span style="color: rgb(38,95,167)"><?php echo $product_array[$key]["name"]; ?></span></h4>
 	  </div>
 	  
 	  <div class="modal-body">

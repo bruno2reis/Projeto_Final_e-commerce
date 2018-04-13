@@ -1,6 +1,6 @@
 <?php
 
-	$connection = mysqli_connect('localhost','root','123456','farma_senac');
+	$connection = mysqli_connect('localhost','root','','farma_senac');
 	$sql_statement = $connection->prepare("SET names 'utf8'; ");
 	$sql_statement->execute();
 
@@ -33,10 +33,12 @@
 				<!-- Atendimento, meus pedidos, meu perfil e carrinho -->
 				
 				<div class="col-xl-6 col-lg-6 col-md-8 d-none d-lg-block text-right">
-					<a href="" class="url">Atendimento</a> |
-					<a href="" class="url">Meus pedidos</a> |
+
+					<a href="carrinho.php" class="url">Meu carrinho</a>
+					<a href="carrinho.php"><img src="img/shoppingcart.png" height="30px"/></a> |
 					<a href="" class="url">Meu perfil</a> |
-					<a href="carrinho.php"><img src="img/shoppingcart.png" height="30px"/></a>
+					<a href="index.php#footer" class="url">Contato</a>
+					
 				</div>
 
 				<!-- Barra de buscas -->

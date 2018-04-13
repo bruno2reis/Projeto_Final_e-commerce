@@ -7,7 +7,7 @@ class DBController
 
     private $user = "root";
 
-    private $password = "123456";
+    private $password = "";
 
     private $database = "farma_senac";
 	
@@ -20,7 +20,7 @@ class DBController
 		$sql_statement->execute();
     }
 
-    public function getConnection()
+    public static function getConnection()
     {
         if (empty($this->conn)) {
             new Database();
