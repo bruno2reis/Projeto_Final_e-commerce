@@ -58,7 +58,6 @@ class ShoppingCart extends DBController
         return $productResult;
     }
 	
-
     function getCartItemByProduct($product_id, $member_id)
     {
         $query = "SELECT * FROM tbl_cart WHERE product_id = ? AND member_id = ?";
@@ -264,5 +263,6 @@ class ShoppingCart extends DBController
         );
         
         $this->updateDB($query, $params);
-    }
+    }	
+
 }

@@ -81,15 +81,15 @@ if (! empty($cartItem)) {
 
 						<div class="row">
 							
-							<div class="col-xl-5 col-lg-4 col-md-4 col-sm-4 col-4 mt-2">
+							<div class="col-xl-4 col-lg-3 col-md-4 col-sm-4 col-4 mt-2">
 								<h5>Resumo</h5>						
 							</div>
 							
-							<div class="col-xl-5 col-lg-6 col-md-6 col-sm-6 col-6 mt-2">
+							<div class="col-xl-6 col-lg-7 col-md-6 col-sm-6 col-6 mt-2">
 							
 								<div class="cart-status">
 									<div>Quantidade Total: <?php echo $item_quantity; ?></div>
-									<div>Preço total: R$ <?php echo $item_price; ?></div>
+									<div>Preço total: R$ <?php echo str_replace('.', ',', number_format($item_price,2)); ?></div>
 								</div>
 							</div>
 							

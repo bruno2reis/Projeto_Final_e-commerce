@@ -26,7 +26,7 @@
 
 		<!-- Preço -->
 		<div class="cart-info price">
-			<?php echo "R$ ".$item["price"]; ?>
+			<?php echo "R$ ".str_replace('.', ',', number_format($item["price"],2)); ?>
 		</div>
 
 		<!-- Ícone para remover o produto -->

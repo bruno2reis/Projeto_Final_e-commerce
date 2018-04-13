@@ -62,17 +62,34 @@ button:hover {
 	padding: 16px;
 }
 
-
-
-/* Modal Content/Box */
-.modal-content {
-	background-color: #fefefe;
-	margin: 0% auto 0% auto; /* 5% from the top, 15% from the bottom and centered */
-	border: 1px solid #888;
-	width: 80%; /* Percentual da tela que o popup ocupa */
+.modal {
+	margin: 0 auto;
 }
 
- 
+/* Modal Content/Box */
+
+.modal-content {
+	background-color: #fefefe;
+	margin: 0% auto 0% auto;
+	border: 1px solid #888;
+	width: 100%; /* Percentual da tela que o popup ocupa */
+}
+
+/*Largura do título do modal */
+.modal-title {
+	width: 90%;
+}
+
+/* Personalização para telas pequenas */
+@media screen and (max-width: 768px) {
+	.modal-title {
+		width: 75%;
+		font-size: 20px;
+	}
+	
+}
+
+
 /* O botão para fechar (x) */
 .close {
 	position: absolute;
@@ -96,11 +113,22 @@ button:hover {
 	display: table;
 }
 
-/* Para telas grandes fixar a largura do popup */	
-@media screen and (min-width: 700px) {
+/* Para telas pequenas fixar a largura do popup */
+@media screen and (max-width: 768px) {
+
+	.modal-content {
+	width: 90%; /* Percentual da tela que o popup ocupa */
+
+	}
+} 
+
+
+/* Para telas grandes fixar a largura do popup */
+@media screen and (min-width: 768px) {
 
 	.modal-content {
 	width: 600px; /* Percentual da tela que o popup ocupa */
+
 	}
 }   
 

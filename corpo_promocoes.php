@@ -32,10 +32,10 @@ require_once "membros.php";
 
 										<!-- Área clicável para abrir o modal -->
 										<div class="clickable" data-toggle="modal" data-target="#myModal<?php echo $product_array[$key]["code"]; ?>">
-											<img class="thumb_prod" src="<?php echo $product_array[$key]["image"]; ?>" width="150" alt="Produto">						
+											<img class="imgcard" src="<?php echo $product_array[$key]["image"]; ?>" width="150" alt="Produto">						
 											<div class="card-title"><?php echo $product_array[$key]["name"]; ?></div>
 											<div class="card-subtitle mb-2 text-muted"><?php echo $product_array[$key]["brand"]; ?></div>
-											<div class="card-text"><?php echo "R$ ".$product_array[$key]["price"]; ?></div>								
+											<div class="card-text"><?php echo "R$ ".str_replace('.', ',', number_format($product_array[$key]["price"],2)); ?></div>								
 											<br>
 										</div>
 
@@ -64,34 +64,35 @@ require_once "membros.php";
 						
 						  <div class="modal-header">
 							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-							<h4 class="modal-title" id="myModalLabel"><?php echo $product_array[$key]["name"]; ?></h4>
+							<h5 class="modal-title" id="myModalLabel"><span style="color: rgb(38,95,167)"><?php echo $product_array[$key]["name"]; ?></span></h4>
 						  </div>
 						  
 						  <div class="modal-body">
 						  
-							<div class="text-center" style="margin-top: 0">
-								<p>Cód: <?php echo $product_array[$key]["code"]; ?></p>
-								<p>Fabricante: <?php echo $product_array[$key]["brand"]; ?></p>
-								<p>Tarja: <?php echo $product_array[$key]["tarja"]; ?></p>
-								<img class="thumb_prod" src="<?php echo $product_array[$key]["image"]; ?>" width="220" alt="Produto">
-								<p>Descrição: <?php echo $product_array[$key]["descricao"]; ?></p>
-								
-								<p>Preço: <?php echo "R$ ".$product_array[$key]["price"]; ?></p>
+							<div class="text-center" style="margin-top: 0; margin-bottom: 0">
+								<img class="imgmodal" src="<?php echo $product_array[$key]["image"]; ?>" alt="Produto">
 
-								
+								<div class="scrollbox">
+									<p>Cód: <?php echo $product_array[$key]["code"]; ?></p>
+									<p>Fabricante: <?php echo $product_array[$key]["brand"]; ?></p>
+									<p>Tarja: <?php echo $product_array[$key]["tarja"]; ?></p>
+									<p>Descrição: <?php echo $product_array[$key]["descricao"]; ?></p>
+								</div>
+
+								<p style="margin-top: 10px"><a href="bulas/bula.pdf" target="_blank">Leia a bula</a></p>
+								<p>Preço: <?php echo "R$ ".str_replace('.', ',', number_format($product_array[$key]["price"],2)); ?></p>
+
 								<form method="post"	action="carrinho.php?action=add&code=<?php echo $product_array[$key]["code"]; ?>">
 									<input type="text" name="quantity" value="1" class="input-cart-quantity" style="width: 40px"/>
 									<input type="submit" class="btn btn-primary" style="margin-left: 10px; height: 40px; visibility: visible" value="Adicionar ao carrinho"/>
 								</form>
 
-								<button type="button" class="btn btn-outline-primary" data-dismiss="modal" style="margin-top: 20px; visibility: visible">Fechar</button>
-							
 							</div>
 								
 						  </div>
+					    </div>
 					  </div>
 					</div>
-					</div>								
 					<!-- Fim do modal -->						
 		<?php
 		}

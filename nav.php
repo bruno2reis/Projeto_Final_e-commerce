@@ -1,5 +1,9 @@
 <?php
+
 	$connection = mysqli_connect('localhost','root','','farma_senac');
+	$sql_statement = $connection->prepare("SET names 'utf8'; ");
+	$sql_statement->execute();
+
 ?>
 
 
@@ -41,7 +45,7 @@
 						
 					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-11 col-11 mx-auto">
 						<div class="input-group">	<!-- Utilizamos input group para colocar o input e o botão na mesma linha -->
-								<input class="form-control" id="divBusca" name="search" type="text" style="margin-right: 25px" />
+								<input class="form-control" id="divBusca" name="search" required type="text" style="margin-right: 25px" />
 								<input class="btn btn-primary" id="divBusca" type="submit" value="Buscar" />
 						</div>
 					</div>
@@ -59,7 +63,7 @@
 
 <!-- Nav para telas maiores -->
 
-<nav class="navbar navbar-expand-md navbar-dark" id="navdesktop">    <!-- style="background-color: red"  -->
+<nav class="navbar navbar-expand-md navbar-dark" id="navdesktop">
 
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapse_desktop" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
