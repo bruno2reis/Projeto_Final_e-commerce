@@ -32,12 +32,11 @@
 				
 				<!-- Atendimento, meus pedidos, meu perfil e carrinho -->
 				
-				<div class="col-xl-6 col-lg-6 col-md-8 d-none d-lg-block text-right">
+				<div class="col-xl-6 col-lg-6 col-md-4 d-none d-md-block text-right">
 
-					<a href="carrinho.php" class="url">Meu carrinho</a>
-					<a href="carrinho.php"><img src="img/shoppingcart.png" height="30px"/></a> |
-					<a href="" class="url">Meu perfil</a> |
-					<a href="index.php#footer" class="url">Contato</a>
+					<a href="carrinho.php"><img src="img/carticon.png" height="30px" style="margin-right: 15px"/></a>
+					<a href=""><img src="img/profileicon.png" height="30px" style="margin-right: 15px"/></a>
+					<a href="index.php#footer"><img src="img/contacticon.png" height="28px"/></a>
 					
 				</div>
 
@@ -47,7 +46,7 @@
 						
 					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-11 col-11 mx-auto">
 						<div class="input-group">	<!-- Utilizamos input group para colocar o input e o botão na mesma linha -->
-								<input class="form-control" id="divBusca" name="search" required type="text" style="margin-right: 25px" />
+								<input class="form-control" id="divBusca" name="search" required type="text" style="margin-right: 5px" />
 								<input class="btn btn-primary" id="divBusca" type="submit" value="Buscar" />
 						</div>
 					</div>
@@ -149,15 +148,15 @@
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="" style="color: white">Atendimento</a>
+				<a class="nav-link" href="carrinho.php" style="color: white">Meu Carrinho</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="" style="color: white">Meus pedidos</a>
+				<a class="nav-link" href="" style="color: white">Meu Perfil</a>
 			</li>
 			
 			<li class="nav-item">
-				<a class="nav-link" href="" style="color: white">Meus perfil</a>
+				<a class="nav-link" href="index.php#footer" style="color: white">Contato</a>
 			</li>
 			
 		</ul>
