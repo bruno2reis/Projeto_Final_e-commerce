@@ -44,6 +44,7 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
 		<script src="js/flickity.pkgd.min.js"></script>
         <script src="js/total.js"></script>
+		<script src="js/new.js"></script>
         <script src="js/cadastro.js"></script>
 
 	</body>

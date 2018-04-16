@@ -1,18 +1,10 @@
 /* Para fazer com que os carrosséis não se movimentem automaticamente */
 
 $(document).ready(function () {
-    var $seuCampoCpf = $("#cpf");
-    var $data_form = $("#dtnasc");
-    var $tel_form = $("#tel");
-    $seuCampoCpf.mask('000.000.000-00', {reverse: true});
-    $data_form.mask("99/99/9999");
-    $tel_form.mask("(99) 99999-9999");
-
     //cadastrar
     $("#salvar").click(function(e){
         e.preventDefault();
         var form = $("#formCadastro").serialize();
-        
         $("#formCadastro").validate({
             rules : {
                   email:{
