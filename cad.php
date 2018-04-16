@@ -46,6 +46,7 @@
      
             if ($stmt->execute())
             {
+				$_SESSION['nome'] = $nome; 	
                 echo "<script type='text/javascript'>alert('Usuario cadastrado com sucesso!'); window.location.href = 'index.php';</script>";
             }
             else

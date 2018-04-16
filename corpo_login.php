@@ -13,7 +13,7 @@
 			<div class="col-sm-12">
 				  <br>
 				  <label for="nome">Login(Nome):</label>
-				  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="nome" id="nome">
+				  <input type="text" placeholder="Ex. Login ou Nome" name="nome" id="nome">
 
 				  <label for="psw">Password:</label>
 				  <input type="password" placeholder="" name="psw" id="psw">
