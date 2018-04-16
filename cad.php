@@ -60,6 +60,5 @@
         echo "<script type='text/javascript'>alert('Por favor preencha os campos')</script>"; 
          
     }
-    
- 
+
 ?>

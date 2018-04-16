@@ -15,21 +15,7 @@ class ShoppingCart extends DBController
         
         return true;
     }
-    /*
-    function getUser($user_email){
-        $query = "SELECT * FROM usuario WHERE email=?";
-        $params = array(
-            array(
-                "param_type" => "i",
-                "param_value" => $user_email
-            )
-        );
-        $usuario = $this->getDBResult($query, $params);
-        return $usuario;
-    }
-*/
-    
-
+  
     function getAllProduct()
     {
         $query = "SELECT * FROM tbl_product";
