@@ -11,28 +11,28 @@
 			</div>
 			<div class="col-sm-12">
 			  </br>
-			  <label for="email">e-mail</label>
-			  <input type="text" id="email" placeholder="Ex. joaodasilva@gmail.com" name="email">
+
+			  <label for="nome">Login</label>
+			  <input type="text" id="nome" placeholder="Ex. Leonardo" name="nome">
 			  </br>
-			  
-			  <label for="psw">senha</label>
-			  
+
+			  <label for="psw">Password</label>
 			  <input type="password" id="senha" placeholder="" name="psw">
 			
 			  <label for="cpf">CPF</label>
 			  <input type="number" id="cpf" placeholder="Ex. 123.456.789-12" name="cpf">
 
-			  <label for="nome">seu nome</label>
-			  <input type="text" id="nome" placeholder="Ex. Leonardo" name="nome">
+			   <label for="email">Email</label>
+			  <input type="text" id="email" placeholder="Ex. joaodasilva@gmail.com" name="email">
 
-			  <label for="dtnasc">data de nascimento</label><br>
+			  <label for="dtnasc">Data de Nascimento</label><br>
 			  <input type="date" id="dtnasc" placeholder="Ex. 01/01/1999" name="dtnasc"><br>
 
-			  <label for="sexo" name="sexo">sexo</label><br>
+			  <label for="sexo" name="sexo">Sexo</label><br>
 			  <input type="radio" name="sexo" value="masc" checked>Masculino
 			  <input type="radio" name="sexo" value="fem">Feminino<br><br>
 
-			  <label for="tel">telefone</label>
+			  <label for="tel">Telefone</label>
 			  <input type="number" id="tel" placeholder="Ex. (99) 99999-9999" name="tel">
 
 			  <div class="clearfix">

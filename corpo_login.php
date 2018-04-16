@@ -13,10 +13,10 @@
 
 			<div class="col-sm-12">
 				  <br>
-				  <label for="email">e-mail</label>
-				  <input type="text" placeholder="Ex. joaodasilva@gmail.com" name="email" id="email">
+				  <label for="nome">Login:</label>
+				  <input type="text" name="nome" id="nome">
 
-				  <label for="psw">senha</label>
+				  <label for="psw">Password:</label>
 				  <input type="password" placeholder="" name="psw" id="psw">
 
 				  <div class="clearfix">

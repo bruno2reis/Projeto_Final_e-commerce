@@ -3,6 +3,32 @@ require_once "DBController.php";
 
 class ShoppingCart extends DBController
 {
+    function getLogado(){
+        session_start();
+        $conexao=mysqli_connect("localhost","root","","farma_senac");
+        if (isset($_SESSION['LAST_ACTIVITY']) && (time() - $_SESSION['LAST_ACTIVITY'] > 180)) { // Colocar o tempo em segundos que a session vai expirar
+            session_unset();     // unset da sessão de acordo com o tempo especificado 
+            session_destroy();   // destruir sessão
+            mysqli_query($conexao,"DELETE FROM tbl_cart");   
+        }
+        $_SESSION['LAST_ACTIVITY'] = time(); // Atualizar horário do último update
+        
+        return true;
+    }
+    /*
+    function getUser($user_email){
+        $query = "SELECT * FROM usuario WHERE email=?";
+        $params = array(
+            array(
+                "param_type" => "i",
+                "param_value" => $user_email
+            )
+        );
+        $usuario = $this->getDBResult($query, $params);
+        return $usuario;
+    }
+*/
+    
 
     function getAllProduct()
     {
@@ -10,7 +36,7 @@ class ShoppingCart extends DBController
         
         $productResult = $this->getDBResult($query);
         return $productResult;
-    }
+    } 
 
     function getMemberCartItem($member_id)
     {

@@ -1,32 +1,30 @@
 <?php
 require_once 'init.php';
-$email = (isset($_POST['email'])) ? $_POST['email'] : null;
-$senha = (isset($_POST['psw']))? $_POST['psw'] : null;
+//require_once 'funcoescarrinho.php';
 
+session_start();
+$nome = (isset($_POST['nome'])) ? $_POST['nome'] : null;
+$senha = md5((isset($_POST['psw']))? $_POST['psw'] : null);
 $PDO = db_connect();
-session_status();
 
-$sql = "SELECT * FROM USUARIO WHERE email =:email";
+$sql = "SELECT * FROM USUARIO WHERE nome =:nome AND senha=:senha";
 
 $result_id = $PDO->prepare($sql);
-$result_id->bindParam('email', $email);
+$result_id->bindParam('nome', $nome);
+$result_id->bindParam('senha', $senha);
 $result_id->execute();
 $num_rows = $result_id->fetchColumn();
 
 if($num_rows > 0 ){
-    echo "<script type='text/javascript'>alert('Usuario já cadastrado !'); window.location.href = 'index.php'; </script>";
+    
+    $_SESSION['nome'] = $nome;
+    $_SESSION['senha'] = $senha;
 
-}else{
-    $sql = "INSERT INTO usuario(senha, email) VALUES (:senha, :email)";
-    $stmt = $PDO->prepare($sql);
-    $stmt->bindParam(':senha', $senha);
-    $stmt->bindParam(':email', $email);
+    //print_r($_SESSION['email']);die;
+    echo "<script type='text/javascript'>alert('Bem vindo !'); window.location.href = 'index.php'; </script>";
+}else{ 
 
-    if($stmt->execute()){
-        echo "<script type='text/javascript'>alert('Usuario cadastrado com sucesso!'); window.location.href = 'index.php';</script>";
-
-    }else{
-        echo "Erro ao cadastrar </br>";
-        print_r($stmt->errorInfo());
-    }
+    unset($_SESSION['nome']);
+    unset($_SESSION['senha']);
+    echo "<script type='text/javascript'>alert('Por favor prezados realize sua cadastro !'); window.location.href = 'cadastro.php';</script>";
 }

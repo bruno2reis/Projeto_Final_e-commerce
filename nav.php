@@ -4,6 +4,14 @@
 	$sql_statement = $connection->prepare("SET names 'utf8'; ");
 	$sql_statement->execute();
 
+	if((!isset ($_SESSION['email']) == true) and (!isset ($_SESSION['senha']) == true) and (!isset ($_SESSION['nome']) == true))
+{
+    unset($_SESSION['email']);
+    unset($_SESSION['senha']);
+    }else{
+		$logado = $_SESSION['nome'];
+		//echo $logado;	
+	}
 ?>
 
 
@@ -26,8 +34,13 @@
 				<!-- Olá, visitante! Cadastro/login -->
 				
 				<div class="col-xl-6 col-lg-6 col-md-8 d-none d-md-block">
-					<label><h4>Olá, visitante!</h4></label>
-						<a href="cadastro.php">Cadastro</a> ou <a href="login.php">Login</a>
+				<?php  
+					if(isset($logado)){
+				?>
+					<label><p class"a"><?php  echo $logado; ?></p></label>
+					<?php }else{ ?>
+						Bem Vindo Visitante! <a href="cadastro.php">Cadastro</a> ou <a href="login.php">Login</a>
+					<?php } ?>
 				</div>
 				
 				<!-- Atendimento, meus pedidos, meu perfil e carrinho -->

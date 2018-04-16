@@ -23,9 +23,9 @@
 
         session_start();
 
-        $sql = " SELECT * FROM USUARIO WHERE email = :email";
+        $sql = " SELECT * FROM USUARIO WHERE nome = :nome";
         $result_id = $PDO->prepare($sql);
-        $result_id->bindParam('email', $email);
+        $result_id->bindParam('nome', $nome);
         $result_id->execute();
         $num_rows = $result_id->fetchColumn();
 

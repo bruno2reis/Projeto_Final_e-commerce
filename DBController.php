@@ -19,7 +19,7 @@ class DBController
 		$sql_statement = $this->conn->prepare("SET names 'utf8'; ");
 		$sql_statement->execute();
     }
-
+    
     public static function getConnection()
     {
         if (empty($this->conn)) {
