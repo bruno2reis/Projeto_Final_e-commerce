@@ -7,7 +7,8 @@
 	if((!isset ($_SESSION['email']) == true) and (!isset ($_SESSION['senha']) == true) and (!isset ($_SESSION['nome']) == true))
 {
     unset($_SESSION['email']);
-    unset($_SESSION['senha']);
+	unset($_SESSION['senha']);
+	unset($_SESSION['nome']);
     }else{
 		$logado = $_SESSION['nome'];
 		//echo $logado;	
