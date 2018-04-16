@@ -37,7 +37,7 @@
 				<?php  
 					if(isset($logado)){
 				?>
-					<label><p class"a"><?php  echo $logado; ?></p></label>
+					<label><p class"a">Usuario Logado: <?php echo @$logado; ?><a href="logout.php"> Logout</a></li></p></label>
 					<?php }else{ ?>
 						Bem Vindo Visitante! <a href="cadastro.php">Cadastro</a> ou <a href="login.php">Login</a>
 					<?php } ?>
