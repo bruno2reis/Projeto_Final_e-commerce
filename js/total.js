@@ -1,12 +1,18 @@
 /* Para fazer com que os carrosséis não se movimentem automaticamente */
 
 $(document).ready(function () {
+    var $seuCampoCpf = $("#cpf");
+    var $data_form = $("#dtnasc");
+    var $tel_form = $("#tel");
+    $seuCampoCpf.mask('000.000.000-00', {reverse: true});
+    $data_form.mask("99/99/9999");
+    $tel_form.mask("(99) 99999-9999");
 
     //cadastrar
     $("#salvar").click(function(e){
         e.preventDefault();
         var form = $("#formCadastro").serialize();
-
+        
         $("#formCadastro").validate({
             rules : {
                   email:{
@@ -14,12 +20,7 @@ $(document).ready(function () {
                   },
                   senha:{
                          required:true
-                  },
-                  cpf:{
-                      required:true,
-                      number:true
                   }
-
             },
             messages:{
                   email:{
@@ -75,6 +76,9 @@ $(document).ready(function () {
                 },
                 senha:{
                     required:true
+                },
+                nome:{
+                    required: true
                 }
             },
             messages:{
@@ -85,6 +89,11 @@ $(document).ready(function () {
                 senha:{
                     required: "Digite sua senha",
                     minLength: "A sua senha deve conter, no mínimo, 5 caracteres"
+                },
+
+                nome:{
+                    required: "Digite seu Nome",
+                    minLength: "A sua senha deve conter, no mínimo, 2 caracteres"
                 }
             }
         });

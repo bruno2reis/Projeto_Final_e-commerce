@@ -60,7 +60,7 @@
 						
 					<div class="col-xl-12 col-lg-12 col-md-12 col-sm-11 col-11 mx-auto">
 						<div class="input-group">	<!-- Utilizamos input group para colocar o input e o botão na mesma linha -->
-								<input class="form-control" id="divBusca" name="search" required type="text" style="margin-right: 5px" />
+								<input class="form-control" id="divBusca_2" name="search" required type="text" style="margin-right: 5px" />
 								<input class="btn btn-primary" id="divBusca" type="submit" value="Buscar" />
 						</div>
 					</div>

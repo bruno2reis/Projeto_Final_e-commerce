@@ -1,16 +1,9 @@
 <?php
-	// Começar a sessão
-	session_start();
-	
-	$conexao=mysqli_connect("localhost","root","","farma_senac");
-	
-	if (isset($_SESSION['LAST_ACTIVITY']) && (time() - $_SESSION['LAST_ACTIVITY'] > 180)) { // Colocar o tempo em segundos que a session vai expirar
-		session_unset();     // unset da sessão de acordo com o tempo especificado 
-		session_destroy();   // destruir sessão
-		mysqli_query($conexao,"DELETE FROM tbl_cart");
-	};
+	require_once "funcoescarrinho.php";
 
-	$_SESSION['LAST_ACTIVITY'] = time(); // Atualizar horário do último update
+	$userLogado = new ShoppingCart();
+	
+	$userLogado->getLogado();
 ?>
 
 

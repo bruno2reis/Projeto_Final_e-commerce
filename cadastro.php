@@ -1,16 +1,9 @@
 <?php
-	// Começar a sessão
-	session_start();
-	
-	$conexao=mysqli_connect("localhost","root","","farma_senac");
-	
-	if (isset($_SESSION['LAST_ACTIVITY']) && (time() - $_SESSION['LAST_ACTIVITY'] > 180)) { // Colocar o tempo em segundos que a session vai expirar
-		session_unset();     // unset da sessão de acordo com o tempo especificado 
-		session_destroy();   // destruir sessão
-		mysqli_query($conexao,"DELETE FROM tbl_cart");
-	};
+	require_once "funcoescarrinho.php";
 
-	$_SESSION['LAST_ACTIVITY'] = time(); // Atualizar horário do último update
+	$userLogado = new ShoppingCart();
+	
+	$userLogado->getLogado();
 ?>
 
 
@@ -43,10 +36,12 @@
 		<?php require_once "footer.php"; ?>
 				
 		<!-- Carregamento de arquivos JavaScript -->
+		
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>      
         <script src="http://jqueryvalidation.org/files/dist/jquery.validate.js"></script> 	<!-- Inclusão do Plugin jQuery Validation-->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
 		<script src="js/flickity.pkgd.min.js"></script>
         <script src="js/total.js"></script>
         <script src="js/cadastro.js"></script>
