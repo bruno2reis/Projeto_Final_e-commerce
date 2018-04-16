@@ -23,7 +23,6 @@ if($num_rows > 0 ){
     //print_r($_SESSION['email']);die;
     echo "<script type='text/javascript'>alert('Bem vindo !'); window.location.href = 'index.php'; </script>";
 }else{ 
-
     unset($_SESSION['nome']);
     unset($_SESSION['senha']);
     echo "<script type='text/javascript'>alert('Por favor prezados realize sua cadastro !'); window.location.href = 'cadastro.php';</script>";

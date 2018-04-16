@@ -99,10 +99,10 @@ $(document).ready(function () {
                 data: form,
                 beforeSend: function() {
 
-                    $('#insere_aqui').html('cadastrando');
+                    $('#insere_aqui').html('Logando');
                 },
                 complete: function() {
-                    $('cadastrando').remove();
+                    $('Logando').remove();
                 },
                 success: function(data, textStatus) {
                     $('#insere_aqui').html('<p>' + data + '</p>');
